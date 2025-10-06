@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-login.html 
+keywords: bluexp login, capacity planning log in, economic efficiency,lifecycle planning 
+summary: Beginnen Sie mit der Lebenszyklusplanung, indem Sie in der NetApp Konsole darauf zugreifen. 
+---
+= Zugriffslebenszyklusplanung
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Sie verwenden die NetApp Konsole, um auf die Lebenszyklusplanung zuzugreifen.
+
+Um sich bei der Konsole anzumelden, können Sie Ihre Anmeldeinformationen für die NetApp Support-Site verwenden. https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["Erfahren Sie mehr über die Anmeldung"^] .
+
+
+TIP: Sie können auf diese Funktion entweder über die NetApp Konsole (*Storage* > *Lebenszyklusplanung*) oder über Digital Advisor (*Dashboard* > *Planungs-Widget* > *Tech-Refresh*) zugreifen.
+
+.Schritte
+. Öffnen Sie einen Webbrowser und gehen Sie zu https://console.netapp.com/["die NetApp Konsole"^] .
++
+Die Anmeldeseite der Konsole wird angezeigt.
+
+. Melden Sie sich bei der Konsole an.
+. Wählen Sie in der linken Navigation der Konsole *Speicher* > *Lebenszyklusplanung* aus.
+

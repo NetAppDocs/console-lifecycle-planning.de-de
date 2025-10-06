@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-remediate-overview.html 
+keywords: lifecycle planning remediate, lifecycle planning, capacity planning, economic efficiency,bluexp 
+summary: 'NetApp Lebenszyklusplanung: Die Kapazitätsplanung nutzt KI, um das Datenwachstum vorherzusagen und so den Planungsprozess zu unterstützen.' 
+---
+= Überprüfen und beheben Sie die durch die Lebenszyklusplanung ermittelten Kapazitätsprobleme.
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Bei der Kapazitätsplanung geht es darum, sowohl aktuelle als auch prognostizierte Bereiche mit geringer Kapazität in Ihrer Umgebung zu identifizieren.  Bei der Lebenszyklusplanung wird KI verwendet, um das Datenwachstum vorherzusagen und so den Planungsprozess zu unterstützen.  Durch die Lebenszyklusplanung werden die Bereiche mit geringer Kapazität in Ihrer Umgebung identifiziert.
+
+Mithilfe der Lebenszyklusplanung können Sie folgende Ziele erreichen:
+
+* link:../use/capacity-review-status.html["Kapazitätsstatus überprüfen"]
+* link:../use/capacity-tier-data.html["Verteilen Sie kalte Daten in den Cloud-Speicher und geben Sie Speicherplatz frei"]
+* link:../use/capacity-reminders.html["Wählen Sie „Keine Aktion“ und legen Sie Erinnerungen für eine erneute Überprüfung fest"]
+

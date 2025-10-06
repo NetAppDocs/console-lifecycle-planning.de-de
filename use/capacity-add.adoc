@@ -1,0 +1,59 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-add.html 
+keywords: economic efficiency remediate, lifecycle planning, capacity planning, add capacity 
+summary: Die Lebenszyklusplanung bietet Empfehlungen für AFF -Systeme basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage werden im Rahmen der Lebenszyklusplanung Empfehlungen vorgelegt, die den Kapazitätswachstumsprognosen gerecht werden und für die Anlagenkonfiguration optimal sind. 
+---
+= Kapazität hinzufügen
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Die Lebenszyklusplanung bietet Empfehlungen für AFF -Systeme basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage werden im Rahmen der Lebenszyklusplanung Empfehlungen vorgelegt, die den Kapazitätswachstumsprognosen gerecht werden und für die Anlagenkonfiguration optimal sind.
+
+Eine der Empfehlungen könnte darin bestehen, die Kapazität durch Hinzufügen von Regalen zu Ihrer vorhandenen Seriennummer zu erhöhen.
+
+Die Empfehlung können Sie ganz einfach als Angebotsanfrage oder als Anfrage für Alternativoptionen an das NetApp Sales Team übermitteln.
+
+.Schritte
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. Wählen Sie *Kapazitätsplanung* aus.
+. Wählen Sie *Speicheroptionen auswerten* für das Asset aus.
+. Wählen Sie *Kapazität hinzufügen*.
++
+Die Daten des Assets werden angezeigt.
+
++
+** Überprüfen Sie die Prognose, Auslastung, Latenzentwicklung und IOPS-Entwicklung.
+** Um Empfehlungen zu erhalten, wählen Sie *Speicheroptionen auswerten*.
++
+Auf der Seite „Kapazitätsanforderungen definieren“ werden eine aktuelle und prognostizierte Kapazitätsprognose sowie empfohlener Zusatzspeicher basierend auf dem prognostizierten Wachstum angezeigt.
+
+
+
+. Wählen Sie eine der Optionen auf der rechten Seite:
++
+** *Empfehlen Sie zusätzlichen Speicher basierend auf dem prognostizierten Wachstum* und fügen Sie optional einen Pufferprozentsatz hinzu.
+** *Empfehlen Sie zusätzlichen Speicher basierend auf dem benutzerdefinierten Datenwachstum* und geben Sie die gewünschte Gesamtkapazität für den zusätzlichen Speicher ein, nicht die empfohlene.
+
+
+. Wählen Sie *Weiter*.
++
+Es wird eine Reihe von Empfehlungen angezeigt.
+
+. Überprüfen Sie die Empfehlung für die von Ihnen ausgewählten Anlagenseriennummern.
+. Führen Sie einen der folgenden Schritte aus:
++
+** Um die Empfehlung zu akzeptieren, wählen Sie *Weiter*.  Die Anfrage wird an einen NetApp -Vertriebsexperten gesendet, der mit Ihnen zusammenarbeitet, um Ihnen die zusätzliche Kapazität zu beschaffen, die Sie benötigen.
+** Um andere Optionen anzufordern, wählen Sie *Alternative Optionen anfordern*, geben Sie Ihre Anfrage ein und wählen Sie *E-Mail senden*.  Eine E-Mail wird an einen NetApp -Vertriebsexperten weitergeleitet, der sich mit Ihnen in Verbindung setzt, um die Kapazitätsanforderungen zu besprechen.
+
+
+. Überprüfen Sie die Anfrage für zusätzliche Kapazität und wählen Sie *Bestätigen und senden*.
++
+Die Seite „Kapazitätsplanungsstatus“ wird angezeigt.
+
+. Überprüfen Sie den Status auf der Seite „Status der Kapazitätsplanung“.
+

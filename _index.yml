@@ -1,0 +1,44 @@
+---
+indexpage:
+  title: Dokumentation der Lebenszyklusplanung
+  summary: Die Lebenszyklusplanung identifiziert Cluster mit aktueller oder prognostizierter
+    geringer Kapazität und gibt Ihnen Empfehlungen zur Datenschichtung.
+  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+    bluexp, data tier, hardware end of life, lifecycle planning
+  lead: Die Lebenszyklusplanung identifiziert Cluster mit aktueller oder prognostizierter
+    geringer Kapazität und gibt Ihnen Empfehlungen zur Datenschichtung.
+  tiles:
+  - title: Erste Schritte
+    links:
+    - title: Erfahren Sie mehr über die Lebenszyklusplanung
+      url: "/get-started/intro.html"
+    - title: Neuigkeiten in der Lebenszyklusplanung
+      url: "/release-notes/whats-new.html"
+    - title: Schnellstart
+      url: "/get-started/quick-start.html"
+    - title: Voraussetzungen
+      url: "/get-started/prerequisites.html"
+    - title: Melden Sie sich bei der Lebenszyklusplanung an
+      url: "/get-started/capacity-login.html"
+    - title: FAQ
+      url: "/get-started/faq.html"
+  - title: Lebenszyklusplanung verwenden
+    links:
+    - title: Überprüfen und beheben Sie Kapazitätsprobleme
+      url: "/use/capacity-remediate-overview.html"
+    - title: Kapazitätsstatus überprüfen
+      url: "/use/capacity-review-status.html"
+    - title: Kapazität hinzufügen
+      url: "/use/capacity-add.html"
+    - title: Kalte Daten in Cloud-Speicher einordnen
+      url: "/use/capacity-tier-data.html"
+    - title: Legen Sie Erinnerungen fest, um erneut nachzusehen
+      url: "/use/capacity-reminders.html"
+  - title: Blogs und Community
+    links:
+    - title: NetApp Konsole
+      url: https://www.netapp.com/console
+    - title: NetApp Datenservices
+      url: https://www.netapp.com/data-services/
+    - title: NetApp Community
+      url: https://community.netapp.com

@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are NetApp lifecycle planning requirements, lifecycle planning prerequisites 
+summary: Beginnen Sie mit der NetApp -Lebenszyklusplanung, indem Sie die Unterstützung für Ihre Umgebung, Ihren Netzwerkzugriff, Ihre Anmeldung und Ihren Webbrowser überprüfen. 
+---
+= Voraussetzungen für die Lebenszyklusplanung
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Beginnen Sie mit der Lebenszyklusplanung, indem Sie die Bereitschaft Ihrer Betriebsumgebung, Anmeldung und Ihres Netzwerkzugriffs überprüfen.  Um die Lebenszyklusplanung zu verwenden, sollten Sie sicherstellen, dass Ihre Umgebung alle Anforderungen erfüllt.
+
+* Ihre Umgebung muss alle Anforderungen der NetApp Konsole erfüllen, einschließlich einer Anmeldung und eines Netzwerkzugriffs über einen Webbrowser.
++
+Weitere Informationen finden Sie im https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["NetApp -Konsole – Schnellstart"^] Und https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["Netzwerkinformationen zur NetApp -Konsole"^] .
+
+* Sie benötigen Zugangsdaten für die Cluster.
+* Obwohl es keine Voraussetzung ist, ist es hilfreich, wenn der NetApp Console-Agent vorhanden und aktiviert ist und das ONTAP -System erkannt wird.  Wenn nicht, führt Sie der Dienst durch diese Prozesse.
+* Wenn Sie planen, kalte Daten in den Cloud-Speicher auszulagern, stellen Sie sicher, dass der Cluster gemäß der Lizenz berechtigt ist.
+

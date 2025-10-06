@@ -1,0 +1,12 @@
+---
+section: use
+title: Nutzen Sie die NetApp -Lebenszyklusplanung
+entries:
+- title: Überprüfen und beheben Sie Kapazitätsprobleme
+  url: "/use/capacity-remediate-overview.html"
+- title: Kapazitätsstatus überprüfen
+  url: "/use/capacity-review-status.html"
+- title: Kalte Daten in Cloud-Speicher einordnen
+  url: "/use/capacity-tier-data.html"
+- title: Legen Sie Erinnerungen fest, um erneut nachzusehen
+  url: "/use/capacity-reminders.html"

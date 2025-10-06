@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: get-started/faq.html 
+keywords: economic efficiency faq, lifecycle planning frequently asked questions 
+summary: Diese FAQ können hilfreich sein, wenn Sie nur schnell eine Antwort auf eine Frage suchen. 
+---
+= Häufig gestellte Fragen zur Lebenszyklusplanung
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Diese FAQ können hilfreich sein, wenn Sie nur eine schnelle Antwort auf eine Frage zur Lebenszyklusplanung suchen.
+
+
+
+== Zugriff auf die Lebenszyklusplanung
+
+*Wie lautet die URL zur Lebenszyklusplanung?*
+
+Geben Sie als URL in einem Browser Folgendes ein: https://console.netapp.com/["https://console.netapp.com/"^] um auf die NetApp Konsole zuzugreifen.
+
+
+
+== Lizenzierung
+
+*Benötigen Sie eine Lizenz, um die Lebenszyklusplanung zu nutzen?*
+
+Eine NetApp -Lizenzdatei (NLF) ist nicht erforderlich.

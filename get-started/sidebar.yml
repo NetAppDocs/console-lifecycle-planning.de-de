@@ -1,0 +1,16 @@
+---
+section: get-started
+title: Erste Schritte
+entries:
+- title: Erfahren Sie mehr über die Lebenszyklusplanung
+  url: "/get-started/intro.html"
+- title: Voraussetzungen
+  url: "/get-started/prerequisites.html"
+- title: Schnellstart
+  url: "/get-started/quick-start.html"
+- title: Einrichten der Lebenszyklusplanung
+  url: "/get-started/capacity-setup.html"
+- title: Zugriffslebenszyklusplanung
+  url: "/get-started/capacity-login.html"
+- title: FAQ
+  url: "/get-started/faq.html"

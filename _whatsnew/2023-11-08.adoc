@@ -1,0 +1,9 @@
+= Technologie-Update
+:allow-uri-read: 
+
+
+
+
+=== Technologie-Update
+
+Diese Version der BlueXP economic efficiency enthält eine neue Option zur Bewertung Ihrer Anlagen und zur Feststellung, ob eine Aktualisierung der Technologie empfohlen wird.  Die BlueXP economic efficiency umfasst eine neue Option zur technischen Aktualisierung in der linken Navigation, neue Seiten, auf denen Sie Ihre aktuellen Arbeitslasten und Vermögenswerte bewerten können, und einen Bericht, der Ihnen Empfehlungen gibt.

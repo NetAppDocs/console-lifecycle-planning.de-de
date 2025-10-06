@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-tier-data.html 
+keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity, lifecycle planning 
+summary: Die Lebenszyklusplanung liefert Empfehlungen basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage präsentiert der Dienst Empfehlungen, die dem prognostizierten Kapazitätswachstum gerecht werden und für die Anlagenkonfiguration optimal sind.  Eine der Empfehlungen könnte darin bestehen, kalte Daten in den Cloud-Speicher zu verschieben, um Kapazitäten freizugeben.  Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem anderen Produkt. 
+---
+= Verteilen Sie kalte Daten in den Cloud-Speicher und geben Sie den durch die Lebenszyklusplanung ermittelten Speicher frei
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Die Lebenszyklusplanung liefert Empfehlungen basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage werden im Rahmen der Lebenszyklusplanung Empfehlungen vorgelegt, die dem prognostizierten Kapazitätswachstum gerecht werden und für die Konfiguration der Speicherressourcen optimal sind.  Eine der Empfehlungen könnte darin bestehen, kalte Daten in den Cloud-Speicher zu verschieben, um Kapazitäten freizugeben.  Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem anderen Produkt.
+
+Von dort aus können Sie die Daten in Stufen einteilen und problemlos zur Lebenszyklusplanung zurückkehren, um Maßnahmen auf anderen Systemen zu ergreifen.
+
+Der Cloud-Tiering-Prozess umfasst die folgenden Prozesse:
+
+* Bereitstellen eines Konsolenagenten
+* Entdecken Sie den Cluster
+* Einrichten der Tiering-Ebene in der Cloud
+
+
+.Schritte
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. Wählen Sie *Speicheroptionen auswerten* für das Asset aus.
+. Wählen Sie *Tier Cold Data* aus.
+. Die nächsten Schritte hängen davon ab, ob Sie den Konsolenagenten bereits bereitgestellt und den Cluster erkannt haben:
++
+** Wenn Sie den Konsolenagenten bereitstellen müssen, lesen Sie die NetApp Konsolendokumentation, die Folgendes beschreibt: https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["So erstellen Sie den Konsolenagenten"^] .  Andernfalls wird die Option zum Bereitstellen des Agenten nicht angezeigt, wenn Sie den Konsolenagenten bereits bereitgestellt haben.
+** Wenn der Dienst den Cluster ermitteln muss, lesen Sie https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Entdecken Sie lokale ONTAP -Cluster"^] .  Andernfalls wird die Option zum Erkennen des Clusters nicht angezeigt, wenn der Cluster bereits erkannt wurde.
++
+Die Lebenszyklusplanung initiiert die Verbindung zu NetApp Cloud Tiering, einem anderen Produkt.
+
++
+image:capacity-tier-cold-data.png["Kapazitätsseite mit der Option zum Einstufen kalter Daten"]
+
+
+
+. Wählen Sie *Agent bereitstellen*.
+. Wählen Sie einen Cloud-Anbieter und klicken Sie auf *Weiter*.
+. Wählen Sie *Weiter* oder *Zur Bereitstellung springen*.
++
+Nach der Bereitstellung des Konsolenagenten erkennt NetApp Cloud Tiering den Cluster, sofern dieser noch nicht erkannt wurde.
+
+. Nachdem der Cluster erkannt wurde, richten Sie die Schichtung ein.
++
+Weitere Informationen zum Tiering finden Sie unter https://docs.netapp.com/us-en/bluexp-tiering/index.html["NetApp Cloud Tiering-Dokumentation"^] .
+
+

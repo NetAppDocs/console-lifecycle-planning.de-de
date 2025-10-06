@@ -1,0 +1,198 @@
+---
+sidebar: sidebar 
+permalink: use/tech-refresh.html 
+keywords: lifecycle planning, tech refresh, technology update, hardware assessment 
+summary: Wenn Sie über vorhandene Anlagen verfügen und eine Bewertung wünschen, um festzustellen, ob eine Technologieaktualisierung empfohlen wird, können Sie die Option „Technische Aktualisierung der Lebenszyklusplanung“ verwenden.  Der Prozess nimmt eine Bewertung Ihrer aktuellen Arbeitsbelastung und Ihres Vermögens vor und gibt Ihnen Empfehlungen zum weiteren Vorgehen.  Oder Sie können eine Arbeitslastsimulation ausprobieren. 
+---
+= Bewerten Sie eine Technologieaktualisierung mithilfe der Lebenszyklusplanung
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Wenn Sie über vorhandene Anlagen verfügen und feststellen möchten, ob eine Technologieaktualisierung empfohlen wird, können Sie die Optionen zur Technologieaktualisierung in der Lebenszyklusplanung verwenden.  Sie können entweder eine kurze Bewertung Ihrer aktuellen Workloads überprüfen und Empfehlungen erhalten, oder wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet haben, kann der Dienst eine Workload-Simulation bereitstellen, um zu sehen, wie Ihre Workloads auf neuer Hardware funktionieren.
+
+* <<Nehmen Sie an einer Auffrischungsbewertung teil>>
+* <<Simulieren Sie Workloads auf neuer Hardware>>
+
+
+Systeme werden aus folgenden Gründen als Kandidaten für eine technische Aktualisierung betrachtet:
+
+* Der technische Supportvertrag läuft bald aus
+* Das Ende des Hardware-Lebenszyklus rückt näher
+
+
+
+TIP: Sie können auf diese Funktion entweder über die Lebenszyklusplanung oder über Digital Advisor zugreifen.
+
+
+
+== Nehmen Sie an einer Auffrischungsbewertung teil
+
+Die Bewertung umfasst die folgenden Schritte:
+
+* Wählen Sie die Systeme aus, die Sie bewerten möchten.
+* Geben Sie Ihre Anforderungen hinsichtlich Umgebungen, Workload-Typen, Kapazität, Leistung und Budget an.
+* Sehen Sie sich die Empfehlungen zu geeigneten Produkten und Cloud-Diensten an, die die Leistung in Ihrer Umgebung verbessern könnten.
+
+
+.Schritte
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. Wählen Sie *Technische Aktualisierung*.
++
+image:tech-refresh.png["Seite zur technischen Aktualisierung mit den Kandidaten für die technische Aktualisierung"]
+
+. Sehen Sie sich die Registerkarte *Kandidaten für eine technische Aktualisierung* an, in der alle Systeme aufgelistet sind, die von einer technischen Aktualisierung profitieren könnten.
+. Wählen Sie das System aus, für das Sie eine Bewertung erhalten möchten.
+. Wählen Sie in der Spalte „Aktionen“ die Option „Aktualisierung auswerten“ aus.
++
+image:tech-refresh-systems.png["Systeme, die in die technische Aktualisierung einbezogen werden sollen"]
+
+. Wählen Sie das System bzw. die Systeme aus, auf denen die Bewertung durchgeführt werden soll, und klicken Sie auf *Weiter*.
+. Definieren Sie die Anforderungen:
++
+.. *Umgebungen*: Wählen Sie die gewünschten Umgebungstypen aus: öffentliche Cloud, Hybrid-Cloud oder vor Ort.
++
+image:tech-refresh-requirements-environments4.png["Seite „Tech Refresh-Anforderungen“ mit Umgebungsauswahl"]
+
+.. *Workloads*: Wählen Sie alle Arten von Workloads aus, die Sie verarbeiten möchten: geschäftskritische Anwendungen, Hochleistungsanalysen und -berechnungen, Datenseen und Medien-Workflows, Sekundärspeicher oder weniger kritische Workloads.
++
+image:tech-refresh-requirements-workload-tiles.png["Workload-Auswahl"]
+
+.. *Kapazität*: Geben Sie die Kapazitätsanforderungen in TiB ein, schieben Sie den Schieberegler auf den Wert oder platzieren Sie den Cursor auf dem Wert im Schieberegler und wählen Sie *Weiter*.
+.. *Leistung*: Wählen Sie die Leistungsaspekte aus, die Sie bewältigen möchten: niedrigste Latenz, höchste IOPS, gemischte Arbeitslasten oder Leistung nicht wichtig, und wählen Sie *Weiter*.
++
+image:tech-refresh-requirements-performance-tiles.png["Leistungsoptionen"]
+
+.. *Budget*: Geben Sie ein Budget in US-Dollar ein, schieben Sie den Schieberegler auf den Wert oder platzieren Sie den Cursor auf dem Wert im Schieberegler und wählen Sie *Weiter*.
++
+Für die von Ihnen ausgewählten Optionen wird in verschiedenen Registerkarten eine Reihe von Empfehlungen angezeigt.
+
+
+
+. Lesen Sie die Empfehlungen.
++
+image:tech-refresh-view-recommendations2.png["Seite mit Empfehlungen zur Aktualisierungsbewertung anzeigen"]
+
+. Führen Sie einen oder beide der folgenden Schritte aus:
++
+.. Um ein PDF der Empfehlungen herunterzuladen, wählen Sie *Herunterladen*.
+.. Um bezüglich der Empfehlungen Kontakt mit einem NetApp Vertriebsmitarbeiter aufzunehmen, wählen Sie *Vertrieb kontaktieren*.  Auf einer Webseite werden Optionen angezeigt, aus denen Sie auswählen können, um Kontakt mit einem NetApp Vertriebsmitarbeiter aufzunehmen.
+
+
+. Wählen Sie *Fertig*.
+
+
+
+
+== Bereits durchgeführte Bewertungen zur Technologieaktualisierung anzeigen
+
+Möglicherweise möchten Sie die bereits durchgeführten Bewertungen zur Technologieaktualisierung noch einmal durchgehen und die Empfehlungen noch einmal prüfen.
+
+.Schritte
+. Wählen Sie in der linken Navigation der NetApp Konsole *Governance* > *Lebenszyklusplanung* > *Technische Aktualisierung*.
+. Wählen Sie die Registerkarte *Kandidaten für die technische Aktualisierung* aus, in der alle Systeme aufgelistet sind, für die Sie eine Bewertung zur technischen Aktualisierung durchgeführt haben.  Wählen Sie dann im Menü „Aktionen“ in der Zeile für dieses System die Option zum Anzeigen der Bewertungen und Empfehlungen für dieses System aus.
+. Wählen Sie auf der Seite „Aktualisierungsoptionen auswerten“ die Option *Empfehlung anzeigen* aus.
+. Sehen Sie sich die Aktualisierungsempfehlungen an.
++
+image:tech-refresh-view-recommendations2.png["Seite mit Empfehlungen zur Aktualisierungsbewertung anzeigen"]
+
+
+
+
+
+== Simulieren Sie Workloads auf neuer Hardware
+
+Wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet haben, kann NetApp eine Simulation bereitstellen, um zu sehen, wie Ihre Workloads auf neuer Hardware funktionieren.
+
+Sie können bestimmte Workloads in die Simulation einschließen oder davon ausschließen.  Sie können auch Workloads hinzufügen, wenn diese nicht in der vorhandenen Workloadliste angezeigt werden.
+
+.Schritte
+. Wählen Sie in der linken Navigation der NetApp Konsole *Governance* > *Lebenszyklusplanung* > *Technische Aktualisierung*.
++
+image:tech-refresh-list2.png["Seite „Tech Refresh“ mit der Registerkarte „Tech Refresh-Kandidaten“"]
+
+. Sehen Sie sich die Registerkarte *Kandidaten für eine technische Aktualisierung* an, in der alle Systeme aufgelistet sind, die von einer technischen Aktualisierung profitieren könnten.
+. Wählen Sie das System aus, für das Sie eine Bewertung erhalten möchten.
+. Wählen Sie in der Spalte „Aktionen“ die Option „Aktualisierung auswerten“ aus.
++
+
+NOTE: Die Lebenszyklusplanung importiert Arbeitslastdetails zur Vorbereitung der Simulation.
+
++
+image:tech-refresh-simulation-requirements3.png["Seite „Workloads simulieren“ mit den Anforderungsoptionen"]
+
+. Führen Sie auf der Seite „Workloads simulieren > Workloadanforderungen“ die folgenden Schritte aus:
++
+.. Um eine Arbeitslast hinzuzufügen, die noch nicht in der Liste enthalten ist, wählen Sie *Arbeitslast hinzufügen*. Weitere Informationen finden Sie unter <<Hinzufügen einer Arbeitslast>> .
+.. *IOPS*: Ändern Sie optional die gewünschten IOPs für Ihre neue Hardware.
+.. *Kapazität (TiB)*: Ändern Sie optional die gewünschte Kapazität für Ihre neue Hardware.
+
+
+. Um Workloads auszuschließen, wählen Sie in der Spalte „Aktionen“ die Option *Workload von der Simulation ausschließen*.
++
+
+TIP: Um zuvor ausgeschlossene Workloads einzuschließen, wählen Sie die Registerkarte *Ausgeschlossene Workloads* und wählen Sie die Option *Workload in Simulation einschließen*. .. Wählen Sie *Weiter*.
+
+. Überprüfen Sie die simulierten Ergebnisse auf neuer Hardware auf der Konfigurationsseite:
++
+image:tech-refresh-simulation-results2.png["Seite „Workloads simulieren“ mit den Simulationsergebnissen"]
+
++
+
+TIP: Die besten Empfehlungen sind mit dem Hinweis „Best“ gekennzeichnet.
+
+. Um ein PDF der Empfehlungen herunterzuladen, wählen Sie *Herunterladen*.
+. So kontaktieren Sie einen NetApp Vertriebsmitarbeiter bezüglich der Empfehlungen:
++
+.. Wählen Sie *Kontakt*.
+.. Kontaktdaten eingeben.
+.. Fügen Sie spezielle Hinweise für den NetApp -Vertriebsmitarbeiter hinzu.
+.. Wählen Sie *Bestätigen und senden*.
+
+
+. Wählen Sie *Fertig*.
+
+
+.Ergebnis
+Die Empfehlungen aus der Workload-Simulation werden an einen NetApp Vertriebsmitarbeiter gesendet.  Sie erhalten außerdem eine E-Mail zur Bestätigung der Empfehlungen.  Ein Vertriebsmitarbeiter von NetApp wird auf Ihre Anfrage antworten.
+
+
+
+== Hinzufügen einer Arbeitslast
+
+Sie können der Workload-Simulation eine Workload hinzufügen, die noch nicht aufgeführt ist.
+
+.Schritte
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. Wählen Sie *Technische Aktualisierung*.
++
+image:tech-refresh-list2.png["Seite „Tech Refresh“ mit der Registerkarte „Tech Refresh-Kandidaten“"]
+
+. Wählen Sie das System aus.
+. Wählen Sie in der Spalte „Aktionen“ die Option „Aktualisierung auswerten“ aus.
++
+image:tech-refresh-simulation-requirements3.png["Seite „Workloads simulieren“ mit den Anforderungsoptionen"]
+
+. Wählen Sie auf der Seite „Workloads simulieren > Workloadanforderungen“ die Option *Workload hinzufügen* aus.
++
+image:tech-refresh-workload-add2.png["Seite „Arbeitslast hinzufügen“"]
+
+. Wählen Sie die Anwendung aus, geben Sie einen Workload-Namen ein und wählen Sie eine Workload-Größe aus.
+. Geben Sie die erwarteten Kapazitäts- und Leistungswerte der Arbeitslast ein.
++
+
+NOTE: Wenn Sie als Arbeitslastgröße „Klein“, „Typisch“ oder „E/A-intensiv“ wählen, werden Standardwerte angezeigt.
+
+. Wählen Sie optional den Pfeil „Erweiterte Optionen“ aus und ändern Sie die Standardeinstellungen für die folgenden Informationen:
++
+** *Speichereffizienz*: Ein typisches Datenreduktionsverhältnis könnte 2 zu 1 sein.
+** *Zufällige Lesevorgänge %*: Eine typische durchschnittliche E/A-Größe für einen zufälligen Lesevorgang beträgt 16 KB.
+** *Sequentielle Lesevorgänge %*: Ein typisches Lesemuster besteht zu 50 % aus zufälligen und zu 50 % aus sequentiellen Lesevorgängen.
+** *Zufällige Schreibvorgänge %*: Eine typische durchschnittliche E/A-Größe für einen zufälligen Schreibvorgang beträgt 32 KB.
+** *Sequentielle Schreibvorgänge %*: Ein typisches Schreibmuster besteht zu 50 % aus zufälligen und zu 50 % aus sequentiellen Schreibvorgängen.
+
+
+

@@ -1,0 +1,64 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how NetApp lifecycle planning works, what is lifecycle planning, bluexp, hardware refresh, technology refresh, capacity, forecasted capacity, storage, forecast, economic efficiency 
+summary: Die NetApp Lebenszyklusplanung identifiziert Cluster mit aktueller oder prognostizierter geringer Kapazität und bietet Empfehlungen zum Daten-Tiering. 
+---
+= Erfahren Sie mehr über die Lebenszyklusplanung
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Bei der Lebenszyklusplanung werden Ihre Speicherressourcen mit aktueller oder prognostizierter geringer Kapazität bewertet und Empfehlungen zu Daten-Tiering-Optionen gegeben, die Ihren Geschäftsanforderungen entsprechen.
+
+
+
+== NetApp Konsole
+
+Auf die Lebenszyklusplanung kann über die NetApp Konsole zugegriffen werden.
+
+Die NetApp Konsole ermöglicht eine zentrale Verwaltung von NetApp -Speicher- und Datendiensten in lokalen und Cloud-Umgebungen auf Unternehmensebene. Die Konsole ist für den Zugriff auf und die Nutzung der NetApp -Datendienste erforderlich. Als Verwaltungsschnittstelle ermöglicht es Ihnen, viele Speicherressourcen über eine Schnittstelle zu verwalten. Konsolenadministratoren können den Zugriff auf Speicher und Dienste für alle Systeme innerhalb des Unternehmens steuern.
+
+Sie benötigen weder eine Lizenz noch ein Abonnement, um die NetApp -Konsole zu verwenden. Es fallen nur dann Kosten an, wenn Sie Konsolenagenten in Ihrer Cloud bereitstellen müssen, um die Konnektivität zu Ihren Speichersystemen oder NetApp -Datendiensten sicherzustellen. Einige NetApp -Datendienste, auf die über die Konsole zugegriffen werden kann, sind jedoch lizenz- oder abonnementbasiert.
+
+Erfahren Sie mehr über die https://docs.netapp.com/us-en/bluexp-setup-admin/concept-overview.html["NetApp Konsole"] .
+
+
+
+== Was können Sie mit der Lebenszyklusplanung erreichen?
+
+Mithilfe der Lebenszyklusplanung können Sie die folgenden Ziele erreichen.
+
+*Kapazitätsinformationen*
+
+* Identifizieren Sie Speicherressourcen in Ihrer Umgebung, die eine geringe Kapazität aufweisen.
+* Überprüfen Sie die Anlagen auf aktuelle und prognostizierte Kapazität.
+
+
+
+
+== Vorteile der Lebenszyklusplanung
+
+Die Lebenszyklusplanung bietet folgende Vorteile:
+
+* Identifiziert Systeme, bei denen sich Lebenszyklusereignisse nähern, um Sie bei der Planung einer Technologieaktualisierung zu unterstützen
+* Bietet Empfehlungen eines vertrauenswürdigen Beraters zur Behebung von Kapazitätsproblemen in Ihrer Umgebung
+* Reduziert den Zeitaufwand für die Planung zusätzlicher Speicherkapazitäten
+
+
+
+
+== Kosten
+
+NetApp berechnet Ihnen für die Nutzung der Lebenszyklusplanung keine Gebühren.
+
+Wenn Sie sich dazu entscheiden, kalte Daten in der Cloud zu speichern, müssen Sie sich bei Ihrem Cloud-Anbieter über die anfallenden Gebühren informieren.
+
+
+
+== Zugang
+
+Sie können auf diese Funktion entweder über die NetApp Konsole (*Storage* > *Lebenszyklusplanung*) oder über Active IQ Digital Advisor (auch als Digital Advisor bekannt) (*Dashboard* > *Planungs-Widget* > *Tech-Refresh*) zugreifen.

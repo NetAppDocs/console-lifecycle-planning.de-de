@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-setup.html 
+keywords: bluexp, lifecycle planning remediate, lifecycle planning, capacity planning, set reminders for capacity,lifecycle planning 
+summary: Um die Lebenszyklusplanung zu verwenden, führen Sie einige Schritte zur Einrichtung aus. 
+---
+= Einrichten der Lebenszyklusplanung
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+Um die Lebenszyklusplanung zu verwenden, führen Sie einige Schritte zur Einrichtung aus.
+
+* Rezensionlink:../get-started/prerequisites.html["Voraussetzungen"] um sicherzustellen, dass Ihr System bereit ist.
+* Erstellen Sie einen Konsolenagenten in der NetApp -Konsole.
+* Entdecken Sie den Cluster in der Konsole.
+
+
+Sie können einen Konsolenagenten direkt in der Konsole erstellen und diesen Agenten später in BlueXP economic efficiency nutzen.  Oder Sie können den Konsolenagenten mitten im Kapazitätsbehebungsprozess erstellen.
+
+Ebenso können Sie den Cluster im Voraus mithilfe der Konsole oder während des Kapazitätsbehebungsprozesses ermitteln.
+
+
+
+== Erstellen Sie einen Konsolenagenten in der NetApp Konsole
+
+Ein NetApp Konsolenagent enthält Anmeldeinformationen für NetApp ONTAP -Maschinen.
+
+Informationen zum Erstellen eines Konsolenagenten in der Konsole vor der Verwendung des Dienstes finden Sie in der Konsolendokumentation. Dort wird beschrieben, https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["So erstellen Sie einen NetApp Console-Agenten"^] .
+
+
+
+== Entdecken Sie den Cluster in der NetApp Konsole
+
+Zur Einrichtung gehört auch die Identifizierung des Clusternamens, der IP, des Benutzernamens und des Kennworts in der Konsole.
+
+Anweisungen vor der Verwendung der Lebenszyklusplanung finden Sie unter https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Entdecken Sie lokale ONTAP -Cluster"^] .

@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-reminders.html 
+keywords: bluexp, lifecycle planning remediate, lifecycle planning, capacity planning, set reminders for capacity, economic efficiency, capacity, tier cold, cold data 
+summary: Anstatt Kapazität hinzuzufügen oder kalte Daten zu stufen, können Sie auswählen, dass zu diesem Zeitpunkt keine Aktion erforderlich ist, und sich selbst Erinnerungen einrichten, um nach 30, 60 oder 90 Tagen erneut nachzusehen. 
+---
+= Legen Sie Erinnerungen fest, um in der Lebenszyklusplanung erneut nachzuschauen
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+Anstatt Kapazität hinzuzufügen oder kalte Daten zu stufen, können Sie in der Lebenszyklusplanung auswählen, dass derzeit keine Aktion erforderlich ist, und sich selbst Erinnerungen einrichten, um nach 30, 60 oder 90 Tagen erneut nachzuschauen.
+
+.Schritte
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. Wählen Sie *Speicheroptionen auswerten* für das Asset aus.
+. Wählen Sie *Keine Aktion erforderlich*.
+. Wählen Sie, wann Sie erneut über ein potenzielles Problem mit geringer Kapazität benachrichtigt werden möchten: 30, 60 oder 90 Tage.
+. Wählen Sie *Speichern*.
+
+
+.Ergebnis
+Nach Ablauf dieser Zeit erscheint das Risiko erneut in der Risikoliste.
