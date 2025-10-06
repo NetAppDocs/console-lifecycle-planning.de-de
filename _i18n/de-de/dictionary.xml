@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d519fe60b31330425fdb5e1c21309f78" category="doc">Technologie-Update</block>
+  <block id="fc7597d59fbc1e8e6a3c5305a87682ca" category="paragraph">Diese Version der BlueXP economic efficiency enthält eine neue Option zur Bewertung Ihrer Anlagen und zur Feststellung, ob eine Aktualisierung der Technologie empfohlen wird.  Die BlueXP economic efficiency umfasst eine neue Option zur technischen Aktualisierung in der linken Navigation, neue Seiten, auf denen Sie Ihre aktuellen Arbeitslasten und Vermögenswerte bewerten können, und einen Bericht, der Ihnen Empfehlungen gibt.</block>
+  <block id="6d060bbb2a63ad6b1466ad80fcfc6275" category="doc">Optionen zur Technologieaktualisierung</block>
+  <block id="482d38b14cf714d9ed46be513831c81e" category="paragraph">Wenn Sie über vorhandene Anlagen verfügen und feststellen möchten, ob eine Technologie aktualisiert werden muss, können Sie die BlueXP -Optionen zur Aktualisierung der wirtschaftlichen Effizienztechnologie verwenden.  Sie können entweder eine kurze Bewertung Ihrer aktuellen Workloads überprüfen und Empfehlungen erhalten, oder wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet haben, kann der Dienst jetzt eine Workload-Simulation bereitstellen, um zu sehen, wie Ihre Workloads auf neuer Hardware funktionieren.</block>
+  <block id="10fa032662780ff6f01bd6647d92c626" category="paragraph">Sie können auch eine Arbeitslast hinzufügen und vorhandene Arbeitslasten von der Simulation ausschließen.</block>
+  <block id="7aea075f0d949c2526cea755a2dee13f" category="paragraph">Bisher konnten Sie lediglich eine Bewertung Ihrer Anlagen vornehmen und feststellen, ob eine Aktualisierung der Technologie empfehlenswert ist.</block>
+  <block id="8006e6282233bdaa99ca3e9db65fc693" category="paragraph">Die Funktion ist jetzt Teil der Option „Tech-Aktualisierung“ in der linken Navigation.</block>
+  <block id="33a9c4b5f0c522c38ff9b1b46ebd1498" category="inline-link">Bewerten Sie eine Technologieaktualisierung</block>
+  <block id="bff48bc8f1cd9f08f36e8d0c4fa810ff" category="paragraph">Erfahren Sie mehr über die<block ref="a53ad2061326060987afe3d1fd22d00d" category="inline-link-rx"></block> .</block>
+  <block id="ba568c6eda754bba155b9d0f187ee2cd" category="doc">Deaktivierte Funktionen</block>
+  <block id="ec6210d470db7cd7b6f5408f088e1c02" category="paragraph">Einige Funktionen zur BlueXP economic efficiency wurden vorübergehend deaktiviert:</block>
+  <block id="dbaae314ffc8b46919877d02b85696cb" category="list-text">Kapazität hinzufügen</block>
+  <block id="97ab9dfb96ee1d5aedf3102c6777b5c7" category="doc">BlueXP economic efficiency ist jetzt Lebenszyklusplanung</block>
+  <block id="0f073941848193a160ce5e5bf8f7d006" category="paragraph">Die BlueXP economic efficiency wurde in Lebenszyklusplanung umbenannt.</block>
+  <block id="275ca5cf7a9fa5329d7c6111bb4a8f94" category="paragraph">Sie können über die linke Navigationsleiste der NetApp Console darauf zugreifen, indem Sie *Speicher* &gt; *Lebenszyklusplanung* auswählen.</block>
+  <block id="bc2fe31b1e2682a9a79513d792e9c721" category="section-title">BlueXP heißt jetzt NetApp Console</block>
+  <block id="995c8f79a8e07fbd8d519e45d03d6004" category="paragraph">Die NetApp Console basiert auf der verbesserten und neu strukturierten BlueXP -Grundlage und ermöglicht die zentrale Verwaltung von NetApp -Speicher und NetApp Data Services in On-Premises- und Cloud-Umgebungen auf Unternehmensniveau. Sie liefert Einblicke in Echtzeit, schnellere Arbeitsabläufe und eine vereinfachte Verwaltung mit hoher Sicherheit und Konformität.</block>
+  <block id="2ef9d641d45afe99b74ad6f9a9f797ad" category="inline-link-macro">Versionshinweise zur NetApp Console</block>
+  <block id="07a0717927710f1dcb5683cb20238dcb" category="paragraph">Einzelheiten zu den Änderungen finden Sie im<block ref="a3987562479f1a66db4eec298b79e00c" category="inline-link-macro-rx"></block> .</block>
+  <block id="39acd48bce4d9ea98abe8b6c423d2d20" category="summary">Beginnen Sie mit der Lebenszyklusplanung, indem Sie in der NetApp Console darauf zugreifen.</block>
+  <block id="125b012a543ab9a5e66dc6b55d03d909" category="doc">Zugriffslebenszyklusplanung</block>
+  <block id="4409dcaa0e2404a16a923cd466b13496" category="paragraph">Sie verwenden die NetApp Console , um auf die Lebenszyklusplanung zuzugreifen.</block>
+  <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">Erfahren Sie mehr über die Anmeldung</block>
+  <block id="4c992a0884fb27bf6e258aeeb9186bc9" category="paragraph">Um sich bei der Konsole anzumelden, können Sie Ihre Anmeldeinformationen für die NetApp Support-Site verwenden.<block ref="192dac3a1352f6134fa7409c0b073570" category="inline-link-rx"></block> .</block>
+  <block id="cc07f1abe65c2e4c2c4159ab1c15fe91" category="admonition">Sie können auf diese Funktion entweder über die NetApp Console (*Storage* &gt; *Lebenszyklusplanung*) oder über Digital Advisor (*Dashboard* &gt; *Planungs-Widget* &gt; *Tech-Refresh*) zugreifen.</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Schritte</block>
+  <block id="982bd3899a5d1f111ad06bb73841bc70" category="inline-link">die NetApp Console</block>
+  <block id="352cce5842856ce34ce1f525ea3f3063" category="list-text">Öffnen Sie einen Webbrowser und gehen Sie zu<block ref="d6a8357fd9eebcdff3de02435d957676" category="inline-link-rx"></block> .</block>
+  <block id="94304f80962e8b0bea262a111465465e" category="paragraph">Die Anmeldeseite der Konsole wird angezeigt.</block>
+  <block id="4a43cddfeeabba4570c14c252dec0bd1" category="list-text">Melden Sie sich bei der Konsole an.</block>
+  <block id="94dd2545f0a3835c51c0f446201f8dff" category="list-text">Wählen Sie in der linken Navigation der Konsole *Speicher* &gt; *Lebenszyklusplanung* aus.</block>
+  <block id="a161611599939d1dadcd33f2bd48907f" category="summary">Um die Lebenszyklusplanung zu verwenden, führen Sie einige Schritte zur Einrichtung aus.</block>
+  <block id="29b5e0c0ca175ba5f9eef8c0d83178a2" category="doc">Einrichten der Lebenszyklusplanung</block>
+  <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">Voraussetzungen</block>
+  <block id="4e19bf2e9b4ac5a922a2178855496f5f" category="list-text">Rezension<block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block> um sicherzustellen, dass Ihr System bereit ist.</block>
+  <block id="213689e3824c3842ee1cdb3ae49b0131" category="list-text">Erstellen Sie einen Konsolenagenten in der NetApp Console.</block>
+  <block id="0e3747332782db47a3f7f6a39bcc758d" category="list-text">Entdecken Sie den Cluster in der Konsole.</block>
+  <block id="80526f97f09af6a5d20818ce9d1aa659" category="paragraph">Sie können einen Konsolenagenten direkt in der Konsole erstellen und diesen Agenten später in BlueXP economic efficiency nutzen.  Oder Sie können den Konsolenagenten mitten im Kapazitätsbehebungsprozess erstellen.</block>
+  <block id="5eaec4ed71699a5bb43c22a5010be7d9" category="paragraph">Ebenso können Sie den Cluster im Voraus mithilfe der Konsole oder während des Kapazitätsbehebungsprozesses ermitteln.</block>
+  <block id="01f52dd5b9c3fcf42a482c9c21f24432" category="section-title">Erstellen Sie einen Konsolenagenten in der NetApp Console</block>
+  <block id="80f2ac90e12391c4af73ba72a4582586" category="paragraph">Ein NetApp Console enthält Anmeldeinformationen für NetApp ONTAP -Maschinen.</block>
+  <block id="8283c3c354e4e44114a78b1f61b67d6d" category="inline-link">So erstellen Sie einen NetApp Console Agenten</block>
+  <block id="dcf4774049da94be36f59a66cced48b7" category="paragraph">Informationen zum Erstellen eines Konsolenagenten in der Konsole vor der Verwendung des Dienstes finden Sie in der Konsolendokumentation. Dort wird beschrieben,<block ref="d5751ac9622544ce702e9d6336ac73e7" category="inline-link-rx"></block> .</block>
+  <block id="a21cea2ae2cddc3db66e6c6b035d23f9" category="section-title">Entdecken Sie den Cluster in der NetApp Console</block>
+  <block id="179a2b60c07600068b5e931f123e20da" category="paragraph">Zur Einrichtung gehört auch die Identifizierung des Clusternamens, der IP, des Benutzernamens und des Kennworts in der Konsole.</block>
+  <block id="c5fbee6586294d81141f8dd158707985" category="inline-link">Entdecken Sie lokale ONTAP -Cluster</block>
+  <block id="5e6414979b78a348e553de111c1850ab" category="paragraph">Anweisungen vor der Verwendung der Lebenszyklusplanung finden Sie unter<block ref="8cab2f9c49f209aeaa6ba3d7ce4342f6" category="inline-link-rx"></block> .</block>
+  <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">Diese FAQ können hilfreich sein, wenn Sie nur schnell eine Antwort auf eine Frage suchen.</block>
+  <block id="d1b6cf622d9f2e164684fa504c5f09b1" category="doc">Häufig gestellte Fragen zur Lebenszyklusplanung</block>
+  <block id="429594ec11020249cedf48b5e9d6180e" category="paragraph">Diese FAQ können hilfreich sein, wenn Sie nur eine schnelle Antwort auf eine Frage zur Lebenszyklusplanung suchen.</block>
+  <block id="9103a53aac4e976d2feb16caa80d499b" category="section-title">Zugriff auf die Lebenszyklusplanung</block>
+  <block id="8ee183e97ed9700b0e7e81b7bfaec173" category="paragraph">*Wie lautet die URL zur Lebenszyklusplanung?*</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="0d6e5faf80b288a1d3277954d0b55ae8" category="inline-link"><block ref="0d6e5faf80b288a1d3277954d0b55ae8" category="inline-link-rx"></block></block>
+  <block id="26fca60f55aabbfb4fc7c0ec60606681" category="paragraph">Geben Sie als URL in einem Browser Folgendes ein:<block ref="50afa4cc4e54d55b53b9cfffe1bc930c" category="inline-link-rx"></block> um auf die NetApp Console zuzugreifen.</block>
+  <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">Lizenzierung</block>
+  <block id="47c879a0114b3d0376b986f1b0d96596" category="paragraph">*Benötigen Sie eine Lizenz, um die Lebenszyklusplanung zu nutzen?*</block>
+  <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">Eine NetApp -Lizenzdatei (NLF) ist nicht erforderlich.</block>
+  <block id="b4d4f6b8330b6463316818057edebd1d" category="summary">Die NetApp Lebenszyklusplanung identifiziert Cluster mit aktueller oder prognostizierter geringer Kapazität und bietet Empfehlungen zum Daten-Tiering.</block>
+  <block id="738bddffaf8c953ead58e77594d61e27" category="doc">Erfahren Sie mehr über die Lebenszyklusplanung</block>
+  <block id="ed3d51b267614016e45d189f489c77f6" category="paragraph">Bei der Lebenszyklusplanung werden Ihre Speicherressourcen mit aktueller oder prognostizierter geringer Kapazität bewertet und Empfehlungen zu Daten-Tiering-Optionen gegeben, die Ihren Geschäftsanforderungen entsprechen.</block>
+  <block id="3c031b939f6ec312ee601d021e7a6644" category="section-title">NetApp Console</block>
+  <block id="7c776c6aa9835fda1b29b4771c2638e8" category="paragraph">Auf die Lebenszyklusplanung kann über die NetApp Console zugegriffen werden.</block>
+  <block id="0a0979a6d279475a420ea5c279943daa" category="paragraph">Die NetApp Console ermöglicht eine zentrale Verwaltung von NetApp -Speicher- und Datendiensten in lokalen und Cloud-Umgebungen auf Unternehmensebene. Die Konsole ist für den Zugriff auf und die Nutzung der NetApp -Datendienste erforderlich. Als Verwaltungsschnittstelle ermöglicht es Ihnen, viele Speicherressourcen über eine Schnittstelle zu verwalten. Konsolenadministratoren können den Zugriff auf Speicher und Dienste für alle Systeme innerhalb des Unternehmens steuern.</block>
+  <block id="7118a6b22768dabe4720d84710ea1e43" category="paragraph">Sie benötigen weder eine Lizenz noch ein Abonnement, um die NetApp Console zu verwenden. Es fallen nur dann Kosten an, wenn Sie Konsolenagenten in Ihrer Cloud bereitstellen müssen, um die Konnektivität zu Ihren Speichersystemen oder NetApp -Datendiensten sicherzustellen. Einige NetApp -Datendienste, auf die über die Konsole zugegriffen werden kann, sind jedoch lizenz- oder abonnementbasiert.</block>
+  <block id="4d0bb76e32bfe205406b10f5dfa9d47b" category="paragraph">Erfahren Sie mehr über die<block ref="e6368f2dd82be1e975475a1098863578" category="inline-link-rx"></block> .</block>
+  <block id="2455419c52dbc78c6433cb8f8fd71b13" category="section-title">Was können Sie mit der Lebenszyklusplanung erreichen?</block>
+  <block id="5c2ca8cad156c73f121b8f423985ce0f" category="paragraph">Mithilfe der Lebenszyklusplanung können Sie die folgenden Ziele erreichen.</block>
+  <block id="c8056ef34e8bdc116bee62a8e0fb8c5b" category="paragraph">*Kapazitätsinformationen*</block>
+  <block id="6a38b1e28c18e6b4edeb4e7b0818a2d7" category="list-text">Identifizieren Sie Speicherressourcen in Ihrer Umgebung, die eine geringe Kapazität aufweisen.</block>
+  <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">Überprüfen Sie die Anlagen auf aktuelle und prognostizierte Kapazität.</block>
+  <block id="3a5156e2b110b01f0232d7d1c0315f1b" category="section-title">Vorteile der Lebenszyklusplanung</block>
+  <block id="833f6dc2fb23df68f7359d32c726551e" category="paragraph">Die Lebenszyklusplanung bietet folgende Vorteile:</block>
+  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">Identifiziert Systeme, bei denen sich Lebenszyklusereignisse nähern, um Sie bei der Planung einer Technologieaktualisierung zu unterstützen</block>
+  <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">Bietet Empfehlungen eines vertrauenswürdigen Beraters zur Behebung von Kapazitätsproblemen in Ihrer Umgebung</block>
+  <block id="757f36865bb189e37e6988545be631ca" category="list-text">Reduziert den Zeitaufwand für die Planung zusätzlicher Speicherkapazitäten</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Kosten</block>
+  <block id="17e75fb73776766e7311c3e085d274f5" category="paragraph">NetApp berechnet Ihnen für die Nutzung der Lebenszyklusplanung keine Gebühren.</block>
+  <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">Wenn Sie sich dazu entscheiden, kalte Daten in der Cloud zu speichern, müssen Sie sich bei Ihrem Cloud-Anbieter über die anfallenden Gebühren informieren.</block>
+  <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">Zugang</block>
+  <block id="3e4fb4563dc82adcd4bd48b88acabacd" category="paragraph">Sie können auf diese Funktion entweder über die NetApp Console (*Storage* &gt; *Lebenszyklusplanung*) oder über Active IQ Digital Advisor (auch als Digital Advisor bekannt) (*Dashboard* &gt; *Planungs-Widget* &gt; *Tech-Refresh*) zugreifen.</block>
+  <block id="6ee44a97c3bde1b4b443da63f561e127" category="summary">Beginnen Sie mit der NetApp -Lebenszyklusplanung, indem Sie die Unterstützung für Ihre Umgebung, Ihren Netzwerkzugriff, Ihre Anmeldung und Ihren Webbrowser überprüfen.</block>
+  <block id="ce9492140ce6fd831d4d5870b1489b8d" category="doc">Voraussetzungen für die Lebenszyklusplanung</block>
+  <block id="9cf3ad8527c1bb0512c1cae3ba255528" category="paragraph">Beginnen Sie mit der Lebenszyklusplanung, indem Sie die Bereitschaft Ihrer Betriebsumgebung, Anmeldung und Ihres Netzwerkzugriffs überprüfen.  Um die Lebenszyklusplanung zu verwenden, sollten Sie sicherstellen, dass Ihre Umgebung alle Anforderungen erfüllt.</block>
+  <block id="b148c08d71c525fb51d8c391a7f845e9" category="list-text">Ihre Umgebung muss alle Anforderungen der NetApp Console erfüllen, einschließlich einer Anmeldung und eines Netzwerkzugriffs über einen Webbrowser.</block>
+  <block id="33022033ab6ef074831b51e61f9f7279" category="inline-link">NetApp Console – Schnellstart</block>
+  <block id="229b9cbf36c5a89e2f3e6f1cf3f9acdd" category="inline-link">Netzwerkinformationen zur NetApp Console</block>
+  <block id="53c1a1553d5162507aaa73a56f0bbc6e" category="paragraph">Weitere Informationen finden Sie im<block ref="df383c63b407c6ea1f2db455715dcec8" category="inline-link-rx"></block> Und<block ref="0902a48b725416f0b7b5cb2c58aecadb" category="inline-link-rx"></block> .</block>
+  <block id="a3538d61b66c68f21178c789ab57dc45" category="list-text">Sie benötigen Zugangsdaten für die Cluster.</block>
+  <block id="5c1dda64b8e099714d13eb873edf47cd" category="list-text">Obwohl es keine Voraussetzung ist, ist es hilfreich, wenn der NetApp Console Agent vorhanden und aktiviert ist und das ONTAP -System erkannt wird.  Wenn nicht, führt Sie der Dienst durch diese Prozesse.</block>
+  <block id="dddec778c9cbb4c6fc3917f4b8148b57" category="list-text">Wenn Sie planen, kalte Daten in den Cloud-Speicher auszulagern, stellen Sie sicher, dass der Cluster gemäß der Lizenz berechtigt ist.</block>
+  <block id="bffb99c382de4c7e00f66e5efaa73325" category="summary">Starten Sie in wenigen Schritten mit dem NetApp Lifecycle Planning Service.</block>
+  <block id="d79d4e177b8eb8d60e29c6b2d792a20d" category="doc">Schnellstart für die Lebenszyklusplanung</block>
+  <block id="2f76f8de228be37cb2d8f1ebf9c8bc1b" category="paragraph">Hier finden Sie eine Übersicht über die erforderlichen Schritte für den Einstieg in die Lebenszyklusplanung. Über die Links in den einzelnen Schritten gelangen Sie zu einer Seite mit weiteren Einzelheiten.</block>
+  <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">Eins</block>
+  <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block>Überprüfen der Voraussetzungen</block>
+  <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">Stellen Sie sicher, dass Ihre Umgebung diese Anforderungen erfüllt</block>
+  <block id="717a5758b6ab4bcbf7dd110d67315d1b" category="paragraph"><block ref="5f2949df55f5fd88f90867ab8210f71d" category="inline-link-macro-rx"></block> .</block>
+  <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">Zwei</block>
+  <block id="346817b23025b173a7703c81bf02c151" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block>Einrichten der Lebenszyklusplanung</block>
+  <block id="f2b4af0a946908d4b47b3f8bf98aa265" category="inline-link-macro">Führen Sie die Schritte zum Einrichten der Lebenszyklusplanung aus</block>
+  <block id="dc96bd155cb4b78caf89149148e0f6ad" category="paragraph"><block ref="50f2af7882a41ae5f520c88aa538406d" category="inline-link-macro-rx"></block> .</block>
+  <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">Drei</block>
+  <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block>Wie geht es weiter?</block>
+  <block id="cd12a6cdf75d99be6b0d27e94b63cd6b" category="paragraph">Nachdem Sie die Lebenszyklusplanung eingerichtet haben, können Sie als Nächstes Folgendes tun.</block>
+  <block id="bf094ea6ac295bf93e9ed9f735604ae0" category="inline-link-macro">Kapazitätsstatus überprüfen</block>
+  <block id="bcd3d166764c54af082cab0c38d454c4" category="list-text"><block ref="4d5929fa69ad7976fb2dcea097678a71" category="inline-link-macro-rx"></block> .</block>
+  <block id="3cf1c3e32dc7a64121e7f0ffa91d5c26" category="inline-link-macro">Verschieben Sie kalte Daten in den Cloud-Speicher, um Speicherplatz freizugeben</block>
+  <block id="c59444289b7d5b170f883b78f647a7ac" category="list-text"><block ref="36a4912d0b5387943c5830e2f89a1f51" category="inline-link-macro-rx"></block> .</block>
+  <block id="9da433a276b8c58aa7c1c0c04ac7063c" category="inline-link-macro">Optional können Sie Erinnerungen festlegen, um erneut zu prüfen</block>
+  <block id="03081baab00ef591d64608f4a8b78847" category="list-text"><block ref="0a845851e887b09bb34d062ef8693aa3" category="inline-link-macro-rx"></block> .</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Rechtliche Hinweise</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Rechtliche Hinweise bieten Zugriff auf Urheberrechtserklärungen, Marken, Patente und mehr.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">Copyright</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">Marken</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NETAPP, das NETAPP-Logo und die auf der NetApp -Markenseite aufgeführten Marken sind Marken von NetApp, Inc. Andere Firmen- und Produktnamen können Marken ihrer jeweiligen Eigentümer sein.</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">Patente</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">Eine aktuelle Liste der Patente im Besitz von NetApp finden Sie unter:</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">Datenschutzrichtlinie</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Open Source</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Hinweisdateien enthalten Informationen zu Urheberrechten und Lizenzen Dritter, die in der NetApp -Software verwendet werden.</block>
+  <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">Bekannte Einschränkungen identifizieren Plattformen, Geräte oder Funktionen, die von dieser Version des Dienstes nicht unterstützt werden oder nicht ordnungsgemäß mit ihm zusammenarbeiten.</block>
+  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">Einschränkungen</block>
+  <block id="b7ec1b0922b218fd6c319d32a6bec93d" category="summary">Der NetApp Lifecycle Planning Service identifiziert Cluster mit aktueller oder prognostizierter geringer Kapazität und gibt Ihnen Empfehlungen zum Daten-Tiering oder zu zusätzlicher Kapazität (für AFF Systeme).  Der Dienst bietet außerdem Empfehlungen zur Technologieaktualisierung für Systeme, die sich dem Ende ihrer Lebensdauer nähern.</block>
+  <block id="46cb02d5628c6067e8b293e526b9b4a7" category="doc">Neuigkeiten in der Lebenszyklusplanung</block>
+  <block id="b6a3c0ab2923358ede3a440002e30423" category="paragraph">Erfahren Sie, was es Neues in der Lebenszyklusplanung gibt.</block>
+  <block id="a41dd7aa7d921f9f0881a705d3679e6c" category="section-title">06. Oktober 2025</block>
+  <block id="93716955add4f66b2af685a33bac4789" category="section-title">15. Mai 2024</block>
+  <block id="bd43fc9501d9e9ddb964eda155be38b8" category="section-title">14. März 2024</block>
+  <block id="41e96c41b82196674a6b6c99d0c0b8ad" category="section-title">08. November 2023</block>
+  <block id="88c49608e723add593f5becc8bd9a968" category="section-title">02. April 2023</block>
+  <block id="fe993a24bb9aca3efb672c108a8c8a76" category="section-title">Einführung der BlueXP economic efficiency</block>
+  <block id="3cd5fdc7e6eee68b4689547b97485e18" category="paragraph">Die neue BlueXP economic efficiency identifiziert Speicherressourcen mit aktueller oder prognostizierter geringer Kapazität und gibt Empfehlungen zur Datenschichtung oder zusätzlichen Kapazität für lokale AFF Systeme.</block>
+  <block id="5154a9fbd66c75e8139a5af4fe572a73" category="inline-link-macro">Erfahren Sie mehr über die Wirtschaftlichkeit von NetApp</block>
+  <block id="39bcc3e1a68b1461b9667a7690558d58" category="paragraph"><block ref="4c8264ea035faba87439d59337882b10" category="inline-link-macro-rx"></block> .</block>
+  <block id="e48486c33f71dc8e173adb6c6fc66485" category="summary">NetApp bietet auf verschiedene Weise Support für die NetApp Console . Umfangreiche kostenlose Self-Support-Optionen stehen rund um die Uhr zur Verfügung, beispielsweise Knowledgebase-Artikel (KB) und ein Community-Forum. Ihre Support-Registrierung beinhaltet technischen Remote-Support per Web-Ticketing.</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Hilfe erhalten</block>
+  <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp bietet Support für BlueXP und seine Cloud-Services auf vielfältige Weise. Umfangreiche kostenlose Self-Support-Optionen stehen Ihnen rund um die Uhr zur Verfügung, darunter Knowledgebase-Artikel und ein Community-Forum. Ihre Support-Registrierung beinhaltet technischen Remote-Support per Web-Ticketing.</block>
+  <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">Erhalten Sie Unterstützung für den Dateidienst eines Cloud-Anbieters</block>
+  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Technischen Support für den Dateidienst eines Cloud-Anbieters, seine Infrastruktur oder eine Lösung, die den Dienst nutzt, erhalten Sie unter „Hilfe erhalten“ in der BlueXP -Dokumentation für das jeweilige Produkt.</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSx für ONTAP</block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
+  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
+  <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
+  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Um technischen Support speziell für BlueXP und seine Speicherlösungen und -dienste zu erhalten, verwenden Sie die unten beschriebenen Supportoptionen.</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Nutzen Sie Möglichkeiten zur Selbsthilfe</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Diese Optionen stehen Ihnen 24 Stunden am Tag, 7 Tage die Woche kostenlos zur Verfügung:</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Dokumentation</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">Die BlueXP -Dokumentation, die Sie gerade anzeigen.</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Wissensdatenbank</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Durchsuchen Sie die BlueXP Wissensdatenbank nach hilfreichen Artikeln zur Problembehebung.</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Gemeinschaften</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">Treten Sie der BlueXP Community bei, um laufende Diskussionen zu verfolgen oder neue zu starten.</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Erstellen Sie einen Fall mit dem NetApp Support</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Zusätzlich zu den oben genannten Self-Support-Optionen können Sie nach der Aktivierung des Supports mit einem NetApp -Support-Spezialisten zusammenarbeiten, um alle Probleme zu lösen.</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">Bevor Sie beginnen</block>
+  <block id="920fe1428c19533eda6222fe7e58efbe" category="inline-link">Erfahren Sie, wie Sie die mit Ihrem BlueXP Login verknüpften Anmeldeinformationen verwalten</block>
+  <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">Um die Funktion *Fall erstellen* zu verwenden, müssen Sie zunächst Ihre Anmeldeinformationen für die NetApp -Support-Site mit Ihrem BlueXP Login verknüpfen.<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block> .</block>
+  <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">Wenn Sie einen Fall für ein ONTAP -System mit einer Seriennummer eröffnen, muss Ihr NSS-Konto mit der Seriennummer für dieses System verknüpft sein.</block>
+  <block id="7fe6981833e8fe7fd89e0a99a55573da" category="list-text">Wählen Sie in BlueXP*Hilfe &gt; Support*.</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Wählen Sie auf der Seite *Ressourcen* unter „Technischer Support“ eine der verfügbaren Optionen aus:</block>
+  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">Wählen Sie *Rufen Sie uns an*, wenn Sie mit jemandem telefonieren möchten. Sie werden zu einer Seite auf netapp.com weitergeleitet, auf der die Telefonnummern aufgeführt sind, die Sie anrufen können.</block>
+  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">Wählen Sie *Fall erstellen*, um ein Ticket bei einem NetApp -Support-Spezialisten zu öffnen:</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*Dienst*: Wählen Sie den Dienst aus, mit dem das Problem verknüpft ist. Beispielsweise BlueXP , wenn es sich um ein spezielles technisches Supportproblem mit Arbeitsabläufen oder Funktionen innerhalb des Dienstes handelt.</block>
+  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*Arbeitsumgebung*: Wählen Sie, falls für den Speicher zutreffend, * Cloud Volumes ONTAP* oder *On-Prem* und dann die zugehörige Arbeitsumgebung aus.</block>
+  <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">Die Liste der Arbeitsumgebungen liegt im Rahmen der BlueXP -Organisation (oder des Kontos), des Projekts (oder Arbeitsbereichs) und des Connectors, den Sie im oberen Banner des Dienstes ausgewählt haben.</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*Fallpriorität*: Wählen Sie die Priorität für den Fall. Sie kann „Niedrig“, „Mittel“, „Hoch“ oder „Kritisch“ sein.</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">Um weitere Einzelheiten zu diesen Prioritäten zu erfahren, bewegen Sie die Maus über das Informationssymbol neben dem Feldnamen.</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Problembeschreibung*: Geben Sie eine detaillierte Beschreibung Ihres Problems an, einschließlich aller zutreffenden Fehlermeldungen oder Schritte zur Fehlerbehebung, die Sie durchgeführt haben.</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*Zusätzliche E-Mail-Adressen*: Geben Sie zusätzliche E-Mail-Adressen ein, wenn Sie jemand anderen auf dieses Problem aufmerksam machen möchten.</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Anhang (optional)*: Laden Sie bis zu fünf Anhänge hoch, einen nach dem anderen.</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Anhänge sind auf 25 MB pro Datei begrenzt. Die folgenden Dateierweiterungen werden unterstützt: txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx und csv.</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Ein Screenshot des Formulars „Fall erstellen“, mit dem Sie einen Fall beim NetApp Support erstellen können.</block>
+  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Nach Abschluss</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Es erscheint ein Popup mit Ihrer Support-Fallnummer. Ein NetApp -Support-Spezialist wird Ihren Fall prüfen und sich in Kürze bei Ihnen melden.</block>
+  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">Um einen Verlauf Ihrer Supportfälle anzuzeigen, können Sie *Einstellungen &gt; Zeitleiste* auswählen und nach Aktionen mit der Bezeichnung „Supportfall erstellen“ suchen. Über eine Schaltfläche ganz rechts können Sie die Aktion erweitern, um Details anzuzeigen.</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">Beim Versuch, einen Fall zu erstellen, kann es sein, dass die folgende Fehlermeldung angezeigt wird:</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">„Sie sind nicht berechtigt, einen Fall für den ausgewählten Dienst zu erstellen.“</block>
+  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Dieser Fehler könnte bedeuten, dass das NSS-Konto und das damit verknüpfte Unternehmen nicht dasselbe Unternehmen sind, für das die Seriennummer des BlueXP Kontos gilt (d. h. 960xxxx) oder die Seriennummer der Arbeitsumgebung. Sie können auf eine der folgenden Arten Hilfe anfordern:</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">Verwenden Sie den Chat im Produkt</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">Senden Sie einen nicht-technischen Fall an<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">Verwalten Sie Ihre Supportfälle (Vorschau)</block>
+  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">Sie können aktive und gelöste Supportfälle direkt von BlueXP aus anzeigen und verwalten. Sie können die mit Ihrem NSS-Konto und Ihrem Unternehmen verknüpften Fälle verwalten.</block>
+  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">Das Fallmanagement ist als Vorschau verfügbar. Wir planen, dieses Erlebnis zu verfeinern und in kommenden Versionen Verbesserungen hinzuzufügen. Bitte senden Sie uns Feedback über den Chat im Produkt.</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Beachten Sie Folgendes:</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">Das Fallmanagement-Dashboard oben auf der Seite bietet zwei Ansichten:</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">Die Ansicht links zeigt die Gesamtzahl der Fälle, die in den letzten drei Monaten von dem von Ihnen angegebenen NSS-Benutzerkonto eröffnet wurden.</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">Die Ansicht rechts zeigt die Gesamtzahl der in den letzten drei Monaten auf Unternehmensebene eröffneten Fälle basierend auf Ihrem NSS-Benutzerkonto.</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">Die Ergebnisse in der Tabelle spiegeln die Fälle wider, die mit der von Ihnen ausgewählten Ansicht in Zusammenhang stehen.</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">Sie können interessante Spalten hinzufügen oder entfernen und den Inhalt von Spalten wie „Priorität“ und „Status“ filtern. Andere Spalten bieten lediglich Sortierfunktionen.</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">Weitere Einzelheiten finden Sie in den folgenden Schritten.</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">Auf Einzelfallebene bieten wir die Möglichkeit, Fallnotizen zu aktualisieren oder einen Fall zu schließen, der sich noch nicht im Status „Abgeschlossen“ oder „Ausstehend abgeschlossen“ befindet.</block>
+  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">Wählen Sie *Fallmanagement* und fügen Sie Ihr NSS-Konto zu BlueXP hinzu, wenn Sie dazu aufgefordert werden.</block>
+  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">Auf der Seite *Fallverwaltung* werden offene Fälle angezeigt, die sich auf das NSS-Konto beziehen, das mit Ihrem BlueXP -Benutzerkonto verknüpft ist. Dies ist dasselbe NSS-Konto, das oben auf der *NSS-Verwaltungsseite* angezeigt wird.</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">Ändern Sie optional die in der Tabelle angezeigten Informationen:</block>
+  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">Wählen Sie unter *Fälle der Organisation* die Option *Anzeigen* aus, um alle mit Ihrem Unternehmen verknüpften Fälle anzuzeigen.</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">Ändern Sie den Datumsbereich, indem Sie einen genauen Datumsbereich oder einen anderen Zeitrahmen auswählen.</block>
+  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">Ein Screenshot der Option über der Tabelle auf der Fallverwaltungsseite, mit der Sie einen genauen Datumsbereich oder die letzten 7 Tage, 30 Tage oder 3 Monate auswählen können.</block>
+  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtern Sie den Inhalt der Spalten.</block>
+  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">Ein Screenshot der Filteroption in der Spalte „Status“, mit der Sie Fälle herausfiltern können, die einem bestimmten Status wie „Aktiv“ oder „Geschlossen“ entsprechen.</block>
+  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">Das Plus-Symbol, das in der Tabelle angezeigt wird</block>
+  <block id="cdf14d2156528231a5dbd12ad5c95d3f" category="list-text">Ändern Sie die in der Tabelle angezeigten Spalten, indem Sie<block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> und wählen Sie dann die Spalten aus, die Sie anzeigen möchten.</block>
+  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">Ein Screenshot, der die Spalten zeigt, die Sie in der Tabelle anzeigen können.</block>
+  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Ein Symbol mit drei Punkten, das in der letzten Spalte der Tabelle erscheint</block>
+  <block id="348552521b849746260fe8d296d34c15" category="list-text">Verwalten Sie einen vorhandenen Fall, indem Sie<block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> und wählen Sie eine der verfügbaren Optionen aus:</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Fall anzeigen*: Alle Details zu einem bestimmten Fall anzeigen.</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Fallnotizen aktualisieren*: Geben Sie zusätzliche Details zu Ihrem Problem an oder wählen Sie *Dateien hochladen*, um bis zu fünf Dateien anzuhängen.</block>
+  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*Fall schließen*: Geben Sie Details zum Grund für das Schließen des Falls an und wählen Sie *Fall schließen* aus.</block>
+  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Ein Screenshot, der die Aktionen zeigt, die Sie ausführen können, nachdem Sie das Menü in der letzten Spalte der Tabelle ausgewählt haben.</block>
+  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6269943bbab503c57445a47b04897eaa" category="summary">Bevor Sie einen Supportfall beim technischen Support von NetApp eröffnen können, müssen Sie der NetApp Console ein NetApp -Support-Site-Konto hinzufügen und sich dann für den Support registrieren.</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Für Support registrieren</block>
+  <block id="ece19bab46695021f109a5e50f08bebe" category="paragraph">Um technischen Support speziell für BlueXP und seine Speicherlösungen und -dienste zu erhalten, ist eine Support-Registrierung erforderlich. Eine Support-Registrierung ist auch erforderlich, um wichtige Workflows für Cloud Volumes ONTAP Systeme zu aktivieren.</block>
+  <block id="8a3d807608e632d188a288fc5f4aa7eb" category="paragraph">Durch die Registrierung für den Support wird kein NetApp Support für den Dateidienst eines Cloud-Anbieters aktiviert. Technischen Support für den Dateidienst eines Cloud-Anbieters, seine Infrastruktur oder eine Lösung, die den Dienst nutzt, erhalten Sie unter „Hilfe erhalten“ in der BlueXP -Dokumentation für das jeweilige Produkt.</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Übersicht zur Support-Registrierung</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Zur Aktivierung des Supportanspruchs stehen zwei Registrierungsformen zur Verfügung:</block>
+  <block id="29360bfcdbc91d3f1514c372b4585965" category="list-text">Registrieren Sie die Seriennummer Ihres BlueXP Kontos (Ihre 20-stellige Seriennummer 960xxxxxxxxx, die Sie auf der Support-Ressourcenseite in BlueXP finden).</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">Dies dient als Ihre einzige Support-Abonnement-ID für alle Dienste innerhalb von BlueXP. Jedes Support-Abonnement auf BlueXP -Kontoebene muss registriert werden.</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">Registrieren Sie die mit einem Abonnement verknüpften Cloud Volumes ONTAP Seriennummern im Marktplatz Ihres Cloud-Anbieters (dies sind 20-stellige 909201xxxxxxxx-Seriennummern).</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">Diese Seriennummern werden allgemein als _PAYGO-Seriennummern_ bezeichnet und von BlueXP zum Zeitpunkt der Bereitstellung von Cloud Volumes ONTAP generiert.</block>
+  <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">Durch die Registrierung beider Seriennummerntypen werden Funktionen wie das Öffnen von Support-Tickets und die automatische Fallgenerierung ermöglicht. Die Registrierung wird abgeschlossen, indem Sie wie unten beschrieben NetApp Support Site (NSS)-Konten zu BlueXP hinzufügen.</block>
+  <block id="444b74bc81e823cc1c4c704219ad8ed3" category="section-title">Registrieren Sie BlueXP für NetApp Support</block>
+  <block id="b3bf31f8a918c712f26cdf493a908825" category="paragraph">Um sich für den Support zu registrieren und den Supportanspruch zu aktivieren, muss ein Benutzer in Ihrer BlueXP -Organisation (oder Ihrem Konto) ein NetApp Support Site-Konto mit seinem BlueXP Login verknüpfen. Wie Sie sich für den NetApp Support registrieren, hängt davon ab, ob Sie bereits über ein NetApp Support Site (NSS)-Konto verfügen.</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">Bestandskunde mit NSS-Konto</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">Wenn Sie NetApp -Kunde mit einem NSS-Konto sind, müssen Sie sich lediglich für den Support über BlueXP registrieren.</block>
+  <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">Wählen Sie oben rechts in der BlueXP Konsole das Symbol „Einstellungen“ und dann „Anmeldeinformationen“ aus.</block>
+  <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">Wählen Sie *Benutzeranmeldeinformationen*.</block>
+  <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">Wählen Sie *NSS-Anmeldeinformationen hinzufügen* und folgen Sie der Authentifizierungsaufforderung der NetApp Support Site (NSS).</block>
+  <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">Um zu bestätigen, dass der Registrierungsvorgang erfolgreich war, wählen Sie das Hilfesymbol und dann *Support*.</block>
+  <block id="2ba7f9eae7a02f9c3ac0fc07517d1c48" category="paragraph">Auf der Seite *Ressourcen* sollte angezeigt werden, dass Ihre BlueXP -Organisation für den Support registriert ist.</block>
+  <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">Ein Screenshot, der eine Kontoseriennummer, ein grünes Kontrollkästchen und den Text „Für Support registriert“ zeigt.</block>
+  <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c05e530d1466e986d570cfe3f92656c3" category="paragraph">Beachten Sie, dass anderen BlueXP Benutzern dieser Support-Registrierungsstatus nicht angezeigt wird, wenn sie ihrem BlueXP Login kein NetApp -Support-Site-Konto zugeordnet haben. Dies bedeutet jedoch nicht, dass Ihre BlueXP -Organisation nicht für den Support registriert ist. Sofern ein Benutzer in der Organisation diese Schritte befolgt hat, ist Ihre Organisation registriert.</block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Bestandskunde, aber kein NSS-Konto</block>
+  <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">Wenn Sie bereits NetApp -Kunde mit vorhandenen Lizenzen und Seriennummern, aber _keinem_ NSS-Konto sind, müssen Sie ein NSS-Konto erstellen und es mit Ihrem BlueXP Login verknüpfen.</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">Registrierungsformular für Benutzer der NetApp Support-Site</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">Erstellen Sie ein NetApp Support Site-Konto, indem Sie das<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">Achten Sie darauf, die entsprechende Benutzerebene auszuwählen, in der Regel „NetApp -Kunde/Endbenutzer“.</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">Denken Sie daran, die Seriennummer des BlueXP -Kontos (960xxxx) zu kopieren, die oben für das Feld „Seriennummer“ verwendet wurde. Dies beschleunigt die Kontobearbeitung.</block>
+  <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">Verknüpfen Sie Ihr neues NSS-Konto mit Ihrem BlueXP -Login, indem Sie die folgenden Schritte ausführen<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Ganz neu bei NetApp</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Wenn Sie NetApp noch nicht kennen und kein NSS-Konto haben, befolgen Sie die nachstehenden Schritte.</block>
+  <block id="d889e6e7cc4c5509ab5b37f8fc894e46" category="list-text">Wählen Sie oben rechts in der BlueXP Konsole das Hilfesymbol und dann *Support* aus.</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Ein Screenshot des Hilfemenüs, in dem „Support“ die erste aufgeführte Option ist.</block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Suchen Sie auf der Support-Registrierungsseite nach der Seriennummer Ihrer Konto-ID.</block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Support-Registrierungssite von NetApp</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Navigieren Sie zu<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> und wählen Sie *Ich bin kein registrierter NetApp -Kunde*.</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Füllen Sie die Pflichtfelder (mit roten Sternchen gekennzeichnet) aus.</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">Wählen Sie im Feld *Produktlinie* *Cloud Manager* und dann Ihren entsprechenden Abrechnungsanbieter aus.</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">Kopieren Sie die Seriennummer Ihres Kontos aus Schritt 2 oben, schließen Sie die Sicherheitsüberprüfung ab und bestätigen Sie anschließend, dass Sie die globale Datenschutzrichtlinie von NetApp gelesen haben.</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">Um diese sichere Transaktion abzuschließen, wird umgehend eine E-Mail an das angegebene Postfach gesendet. Überprüfen Sie unbedingt Ihren Spam-Ordner, wenn die Bestätigungs-E-Mail nicht innerhalb weniger Minuten eintrifft.</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">Bestätigen Sie die Aktion in der E-Mail.</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">Durch die Bestätigung wird Ihre Anfrage an NetApp übermittelt und es wird empfohlen, dass Sie ein NetApp Support Site-Konto erstellen.</block>
+  <block id="a2454703f88e5bf5b433ae850a87151b" category="list-text">Denken Sie daran, die oben für das Seriennummernfeld verwendete Kontoseriennummer (960xxxx) zu kopieren. Dadurch wird die Bearbeitung beschleunigt.</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp sollte sich während dieses Vorgangs mit Ihnen in Verbindung setzen. Dies ist eine einmalige Onboarding-Übung für neue Benutzer.</block>
+  <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">Sobald Sie über Ihr NetApp Support Site-Konto verfügen, verknüpfen Sie das Konto mit Ihrem BlueXP -Login, indem Sie die folgenden Schritte ausführen<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="3e616bae81890a6c8fae17c9b45af152" category="section-title">NSS-Anmeldeinformationen für Cloud Volumes ONTAP Support zuordnen</block>
+  <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Die Verknüpfung der Anmeldeinformationen der NetApp Support Site mit Ihrer BlueXP -Organisation ist erforderlich, um die folgenden wichtigen Workflows für Cloud Volumes ONTAP zu aktivieren:</block>
+  <block id="a0518a10626dc11fd00e2d20265ad240" category="list-text">Registrieren von Pay-as-you-go Cloud Volumes ONTAP Systemen für den Support</block>
+  <block id="321aadf78ef73521712291b7aba6411f" category="paragraph">Die Angabe Ihres NSS-Kontos ist erforderlich, um den Support für Ihr System zu aktivieren und Zugriff auf die technischen Supportressourcen von NetApp zu erhalten.</block>
+  <block id="d51b2b497db445a16b1c9583c1abbb59" category="list-text">Bereitstellen von Cloud Volumes ONTAP mit eigener Lizenz (BYOL)</block>
+  <block id="2ebfeabed40c2270d9fa8325080a4b3e" category="paragraph">Die Angabe Ihres NSS-Kontos ist erforderlich, damit BlueXP Ihren Lizenzschlüssel hochladen und das Abonnement für die von Ihnen erworbene Laufzeit aktivieren kann. Hierzu gehören automatische Updates bei Laufzeitverlängerungen.</block>
+  <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Aktualisieren der Cloud Volumes ONTAP -Software auf die neueste Version</block>
+  <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">Das Verknüpfen von NSS-Anmeldeinformationen mit Ihrer BlueXP Organisation unterscheidet sich vom Verknüpfen des NSS-Kontos mit einer BlueXP Benutzeranmeldung.</block>
+  <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Diese NSS-Anmeldeinformationen sind mit Ihrer spezifischen BlueXP -Organisations-ID verknüpft. Benutzer, die zur BlueXP -Organisation gehören, können über *Support &gt; NSS-Verwaltung* auf diese Anmeldeinformationen zugreifen.</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">Wenn Sie über ein Konto auf Kundenebene verfügen, können Sie ein oder mehrere NSS-Konten hinzufügen.</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Wenn Sie über ein Partner- oder Reseller-Konto verfügen, können Sie ein oder mehrere NSS-Konten hinzufügen, diese können jedoch nicht zusammen mit Konten auf Kundenebene hinzugefügt werden.</block>
+  <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">Wählen Sie *NSS-Verwaltung &gt; NSS-Konto hinzufügen*.</block>
+  <block id="85b9386ed443776127e099931d73448a" category="list-text">Wenn Sie dazu aufgefordert werden, wählen Sie *Weiter*, um zu einer Microsoft-Anmeldeseite weitergeleitet zu werden.</block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp verwendet Microsoft Entra ID als Identitätsanbieter für Authentifizierungsdienste speziell für Support und Lizenzierung.</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">Geben Sie auf der Anmeldeseite Ihre bei der NetApp Support Site registrierte E-Mail-Adresse und Ihr Kennwort ein, um den Authentifizierungsprozess durchzuführen.</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">Diese Aktionen ermöglichen BlueXP , Ihr NSS-Konto für Dinge wie Lizenzdownloads, Überprüfung von Software-Upgrades und zukünftige Support-Registrierungen zu verwenden.</block>
+  <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">Das NSS-Konto muss ein Konto auf Kundenebene sein (kein Gast- oder temporäres Konto). Sie können mehrere NSS-Konten auf Kundenebene haben.</block>
+  <block id="27387009488fe78dcc7cb7e3e432792f" category="list-text">Es kann nur ein NSS-Konto geben, wenn es sich bei diesem Konto um ein Konto auf Partnerebene handelt. Wenn Sie versuchen, NSS-Konten auf Kundenebene hinzuzufügen und ein Konto auf Partnerebene vorhanden ist, erhalten Sie die folgende Fehlermeldung:</block>
+  <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">„Der NSS-Kundentyp ist für dieses Konto nicht zulässig, da bereits NSS-Benutzer eines anderen Typs vorhanden sind.“</block>
+  <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">Dasselbe gilt, wenn Sie bereits über NSS-Konten auf Kundenebene verfügen und versuchen, ein Konto auf Partnerebene hinzuzufügen.</block>
+  <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">Nach erfolgreicher Anmeldung speichert NetApp den NSS-Benutzernamen.</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">Ein Symbol mit drei horizontalen Punkten</block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Dies ist eine vom System generierte ID, die Ihrer E-Mail-Adresse zugeordnet ist. Auf der Seite *NSS-Verwaltung* können Sie Ihre E-Mail-Adresse aus dem<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> Speisekarte.</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Wenn Sie Ihre Anmeldeinformationen aktualisieren müssen, gibt es auch die Option *Anmeldeinformationen aktualisieren* im<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> Speisekarte.</block>
+  <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Bei Verwendung dieser Option werden Sie aufgefordert, sich erneut anzumelden. Beachten Sie, dass das Token für diese Konten nach 90 Tagen abläuft. Sie werden durch eine entsprechende Benachrichtigung darauf aufmerksam gemacht.</block>
+  <block id="1c85b72120b585028490f9cb2c62a430" category="summary">Die Lebenszyklusplanung bietet Empfehlungen für AFF -Systeme basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage werden im Rahmen der Lebenszyklusplanung Empfehlungen vorgelegt, die den Kapazitätswachstumsprognosen gerecht werden und für die Anlagenkonfiguration optimal sind.</block>
+  <block id="a4b7f4fbb927af10488fb0f1be9b7aa8" category="paragraph">Die Lebenszyklusplanung bietet Empfehlungen für AFF -Systeme basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage werden im Rahmen der Lebenszyklusplanung Empfehlungen vorgelegt, die den Kapazitätswachstumsprognosen gerecht werden und für die Anlagenkonfiguration optimal sind.</block>
+  <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">Eine der Empfehlungen könnte darin bestehen, die Kapazität durch Hinzufügen von Regalen zu Ihrer vorhandenen Seriennummer zu erhöhen.</block>
+  <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">Die Empfehlung können Sie ganz einfach als Angebotsanfrage oder als Anfrage für Alternativoptionen an das NetApp Sales Team übermitteln.</block>
+  <block id="0aa8eee6dc5796fb05ecd4c09063d90a" category="inline-link-macro">Melden Sie sich bei der NetApp Console an</block>
+  <block id="efafc891275242e940b48eac42ac5d2a" category="list-text"><block ref="44b0339ddb110b80a3345d53f4eba5a4" category="inline-link-macro-rx"></block> .</block>
+  <block id="1f95877e26de3e2da5e124cfece7b78d" category="list-text">Wählen Sie *Kapazitätsplanung* aus.</block>
+  <block id="516d28f53c7dff8d7f269aaa4d14b40e" category="list-text">Wählen Sie *Speicheroptionen auswerten* für das Asset aus.</block>
+  <block id="dfa90aeb29550058022b6b79dc2fcab1" category="list-text">Wählen Sie *Kapazität hinzufügen*.</block>
+  <block id="acdb4b15420328ba01cc67b594eb95b8" category="paragraph">Die Daten des Assets werden angezeigt.</block>
+  <block id="1e9b75d12e4760def37dda99030a043c" category="list-text">Überprüfen Sie die Prognose, Auslastung, Latenzentwicklung und IOPS-Entwicklung.</block>
+  <block id="53bfb6623aa4226a9a7abd1da46938ee" category="list-text">Um Empfehlungen zu erhalten, wählen Sie *Speicheroptionen auswerten*.</block>
+  <block id="d7e392b076d13c0fd051678992febd6c" category="paragraph">Auf der Seite „Kapazitätsanforderungen definieren“ werden eine aktuelle und prognostizierte Kapazitätsprognose sowie empfohlener Zusatzspeicher basierend auf dem prognostizierten Wachstum angezeigt.</block>
+  <block id="52257f7d68cfb460969ce6a9796f903b" category="list-text">Wählen Sie eine der Optionen auf der rechten Seite:</block>
+  <block id="6187d9adebef354c0e3c4ef8a13e027e" category="list-text">*Empfehlen Sie zusätzlichen Speicher basierend auf dem prognostizierten Wachstum* und fügen Sie optional einen Pufferprozentsatz hinzu.</block>
+  <block id="009556b430eab0cdc17563ad46eedeac" category="list-text">*Empfehlen Sie zusätzlichen Speicher basierend auf dem benutzerdefinierten Datenwachstum* und geben Sie die gewünschte Gesamtkapazität für den zusätzlichen Speicher ein, nicht die empfohlene.</block>
+  <block id="136dc09835924029e4299fa28f17233d" category="list-text">Wählen Sie *Weiter*.</block>
+  <block id="9a16bd048caa65ea73d207e4083cbacf" category="paragraph">Es wird eine Reihe von Empfehlungen angezeigt.</block>
+  <block id="e88ed4f9dd2ff595f10be46a61df3530" category="list-text">Überprüfen Sie die Empfehlung für die von Ihnen ausgewählten Anlagenseriennummern.</block>
+  <block id="365d382b2d9ecca9b0d40171c69b38ff" category="list-text">Führen Sie einen der folgenden Schritte aus:</block>
+  <block id="a5ccb54a019fc87956fb112e46dae4d3" category="list-text">Um die Empfehlung zu akzeptieren, wählen Sie *Weiter*.  Die Anfrage wird an einen NetApp -Vertriebsexperten gesendet, der mit Ihnen zusammenarbeitet, um Ihnen die zusätzliche Kapazität zu beschaffen, die Sie benötigen.</block>
+  <block id="4d74d3615d332cc225fe9db9f1ca1ac7" category="list-text">Um andere Optionen anzufordern, wählen Sie *Alternative Optionen anfordern*, geben Sie Ihre Anfrage ein und wählen Sie *E-Mail senden*.  Eine E-Mail wird an einen NetApp -Vertriebsexperten weitergeleitet, der sich mit Ihnen in Verbindung setzt, um die Kapazitätsanforderungen zu besprechen.</block>
+  <block id="528798800bb18a55c8e56e2808e35e26" category="list-text">Überprüfen Sie die Anfrage für zusätzliche Kapazität und wählen Sie *Bestätigen und senden*.</block>
+  <block id="d452d8a47d94ca7bfae59d96b15e9eae" category="paragraph">Die Seite „Kapazitätsplanungsstatus“ wird angezeigt.</block>
+  <block id="9f5f33b1411cb7c6db0f15c4c16a6ab2" category="list-text">Überprüfen Sie den Status auf der Seite „Status der Kapazitätsplanung“.</block>
+  <block id="b845cc5a85248312785154b5ed95b40c" category="summary">NetApp Lebenszyklusplanung: Die Kapazitätsplanung nutzt KI, um das Datenwachstum vorherzusagen und so den Planungsprozess zu unterstützen.</block>
+  <block id="d2bf03a2ffe5dfe50503eb6c2dd11721" category="doc">Überprüfen und beheben Sie die durch die Lebenszyklusplanung ermittelten Kapazitätsprobleme.</block>
+  <block id="093c0f8af2423bdcda0949b5d238e667" category="paragraph">Bei der Kapazitätsplanung geht es darum, sowohl aktuelle als auch prognostizierte Bereiche mit geringer Kapazität in Ihrer Umgebung zu identifizieren.  Bei der Lebenszyklusplanung wird KI verwendet, um das Datenwachstum vorherzusagen und so den Planungsprozess zu unterstützen.  Durch die Lebenszyklusplanung werden die Bereiche mit geringer Kapazität in Ihrer Umgebung identifiziert.</block>
+  <block id="54fc0ff98ae625a283e7f668931f35d4" category="paragraph">Mithilfe der Lebenszyklusplanung können Sie folgende Ziele erreichen:</block>
+  <block id="4d5929fa69ad7976fb2dcea097678a71" category="list-text"><block ref="4d5929fa69ad7976fb2dcea097678a71" category="inline-link-macro-rx"></block></block>
+  <block id="80b117d13aeb1c0337cca44c4f432522" category="inline-link-macro">Verteilen Sie kalte Daten in den Cloud-Speicher und geben Sie Speicherplatz frei</block>
+  <block id="6cb6b275b6a21c610984fdd0576d0985" category="list-text"><block ref="6cb6b275b6a21c610984fdd0576d0985" category="inline-link-macro-rx"></block></block>
+  <block id="05540742fefd5843712472ea58001fdc" category="inline-link-macro">Wählen Sie „Keine Aktion“ und legen Sie Erinnerungen für eine erneute Überprüfung fest</block>
+  <block id="6aa45f993ae45f131003be16c292fcd5" category="list-text"><block ref="6aa45f993ae45f131003be16c292fcd5" category="inline-link-macro-rx"></block></block>
+  <block id="8996677d91a175f8986c9fb086d0a019" category="summary">Anstatt Kapazität hinzuzufügen oder kalte Daten zu stufen, können Sie auswählen, dass zu diesem Zeitpunkt keine Aktion erforderlich ist, und sich selbst Erinnerungen einrichten, um nach 30, 60 oder 90 Tagen erneut nachzusehen.</block>
+  <block id="1e2a1a25bf508c23fcb8c8036b54b09f" category="doc">Legen Sie Erinnerungen fest, um in der Lebenszyklusplanung erneut nachzuschauen</block>
+  <block id="8f7bd3188fd57c00f67405aa63654730" category="paragraph">Anstatt Kapazität hinzuzufügen oder kalte Daten zu stufen, können Sie in der Lebenszyklusplanung auswählen, dass derzeit keine Aktion erforderlich ist, und sich selbst Erinnerungen einrichten, um nach 30, 60 oder 90 Tagen erneut nachzuschauen.</block>
+  <block id="cdd7417e4a2578a1e8718f7130de6a7d" category="list-text">Wählen Sie *Keine Aktion erforderlich*.</block>
+  <block id="d016487b506e896dfc8d608305699323" category="list-text">Wählen Sie, wann Sie erneut über ein potenzielles Problem mit geringer Kapazität benachrichtigt werden möchten: 30, 60 oder 90 Tage.</block>
+  <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">Wählen Sie *Speichern*.</block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Ergebnis</block>
+  <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">Nach Ablauf dieser Zeit erscheint das Risiko erneut in der Risikoliste.</block>
+  <block id="20245c952c33fe21dea309c4b88da6b7" category="summary">Wenn Ihre Cluster derzeit unter dem Schwellenwert von 70 % Kapazität liegen oder voraussichtlich darunter liegen werden, werden diese von der Lebenszyklusplanung als Ressourcen mit geringer Kapazität identifiziert und Sie werden gewarnt.</block>
+  <block id="57fe405a418d0d172d01b2eb3de8379c" category="doc">Überprüfen des Kapazitätsstatus in der Lebenszyklusplanung</block>
+  <block id="cf9965682d8ca2a2a8060ba94c01ace5" category="paragraph">Wenn die Speicherressourcen in Ihrer Umgebung derzeit unter dem Schwellenwert von 90 % Kapazität liegen oder voraussichtlich darunter liegen werden, werden diese von der Lebenszyklusplanung als Ressourcen mit geringer Kapazität identifiziert und Sie werden benachrichtigt.  Darüber hinaus bietet die Lebenszyklusplanung Empfehlungen dazu, ob Sie Daten in Stufen aufteilen sollten.</block>
+  <block id="837d5e9f2c5cbcdab7649199e74aeb6f" category="paragraph">Sie können die folgenden Datentypen überprüfen, um die Lösung des Kapazitätsproblems zu unterstützen.</block>
+  <block id="419f3742e6de8e0ec4b22cce005e7630" category="list-text">Plattform</block>
+  <block id="47e9bbb6c6753120f1dd00ed48d96e49" category="list-text">Land, in dem sich der Vermögenswert befindet</block>
+  <block id="0df07e1f7ae3afc987ed03150806ffab" category="list-text">Aktuelle und prognostizierte Kapazität nach Monat</block>
+  <block id="79496202c47808e9508060ad8526c904" category="list-text">Wählen Sie in der linken Navigation *Kapazität* aus.</block>
+  <block id="9722e9132b14f674e1ada641c5d68b01" category="inline-image-macro">Kapazitätsseite mit einer Liste der Systeme</block>
+  <block id="79b3477646e37d31eeff4d5145f583d1" category="paragraph"><block ref="79b3477646e37d31eeff4d5145f583d1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a416ed2ec2d2e75e469e3b9e19646eb5" category="list-text">Wählen Sie auf der Seite „Kapazität“ ein System aus.</block>
+  <block id="48de33f3220078c23d71afc9c139dc2b" category="inline-image-macro">Seite „Kapazität“ in der Lebenszyklusplanung</block>
+  <block id="a1b614dd46ca5fc3bb024c1c01884a62" category="paragraph"><block ref="a1b614dd46ca5fc3bb024c1c01884a62" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="393020d67c4695c30e4112c74946b74b" category="list-text">Wählen Sie eine der Optionen:</block>
+  <block id="b9f54dff8d8edfb26e5f92442e93c115" category="list-text">*Best Practices*: Klicken Sie auf den Link, um Best Practices anzuzeigen.</block>
+  <block id="9d9adc1e6779b1d49c9746d8b1715ad4" category="inline-link-macro">Verschieben von „kalten“ Daten in den Cloud-Speicher und Freigeben von Speicherplatz</block>
+  <block id="47141754b699410733fa9410d0da24bd" category="list-text">*Tier Cold Data*: Weiter mit<block ref="e76e1661c872ce87a3a0c42e10da0c33" category="inline-link-macro-rx"></block> .</block>
+  <block id="7da2d43820b3b6996f9bf72d06cd62d2" category="inline-link-macro">Wählen Sie „Keine Aktion“ und legen Sie Erinnerungen für eine erneute Überprüfung fest</block>
+  <block id="58a0e9ebd5e083225a07bd151e8177e1" category="list-text">*Keine Aktion erforderlich*: Weiter mit<block ref="6ab97855d646364f9472f51352902b2e" category="inline-link-macro-rx"></block> .</block>
+  <block id="94cf6e6559fa725179ec329e7e833dbf" category="summary">Die Lebenszyklusplanung liefert Empfehlungen basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage präsentiert der Dienst Empfehlungen, die dem prognostizierten Kapazitätswachstum gerecht werden und für die Anlagenkonfiguration optimal sind.  Eine der Empfehlungen könnte darin bestehen, kalte Daten in den Cloud-Speicher zu verschieben, um Kapazitäten freizugeben.  Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem anderen Produkt.</block>
+  <block id="d50a07b776f086b473cd6b38169cac15" category="doc">Verteilen Sie kalte Daten in den Cloud-Speicher und geben Sie den durch die Lebenszyklusplanung ermittelten Speicher frei</block>
+  <block id="2084990ae78fc21cbd71104521d191ce" category="paragraph">Die Lebenszyklusplanung liefert Empfehlungen basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage werden im Rahmen der Lebenszyklusplanung Empfehlungen vorgelegt, die dem prognostizierten Kapazitätswachstum gerecht werden und für die Konfiguration der Speicherressourcen optimal sind.  Eine der Empfehlungen könnte darin bestehen, kalte Daten in den Cloud-Speicher zu verschieben, um Kapazitäten freizugeben.  Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem anderen Produkt.</block>
+  <block id="8e61de7a09a1a1dad60e868255297134" category="paragraph">Von dort aus können Sie die Daten in Stufen einteilen und problemlos zur Lebenszyklusplanung zurückkehren, um Maßnahmen auf anderen Systemen zu ergreifen.</block>
+  <block id="6dfd2eb5249f90aef474d30566fea034" category="paragraph">Der Cloud-Tiering-Prozess umfasst die folgenden Prozesse:</block>
+  <block id="4cdcdd6cc684e8847f57a8c461306706" category="list-text">Bereitstellen eines Konsolenagenten</block>
+  <block id="6cb8e477737f0dd67265264d19cc8455" category="list-text">Entdecken Sie den Cluster</block>
+  <block id="cc7adfd9e095c31e1c7aa3f8cdf99879" category="list-text">Einrichten der Tiering-Ebene in der Cloud</block>
+  <block id="b974e26cc3ab74dbc7ba9aecae13a829" category="list-text">Wählen Sie *Tier Cold Data* aus.</block>
+  <block id="33de2297c338c4e31f8a407c319c6bb2" category="list-text">Die nächsten Schritte hängen davon ab, ob Sie den Konsolenagenten bereits bereitgestellt und den Cluster erkannt haben:</block>
+  <block id="56e4889d37f2d651771601eea4f5da70" category="inline-link">So erstellen Sie den Konsolenagenten</block>
+  <block id="f536838649ea04af62f4fddf78865ed2" category="list-text">Wenn Sie den Konsolenagenten bereitstellen müssen, lesen Sie die NetApp Console Konsolendokumentation, die Folgendes beschreibt:<block ref="f479f77b9c2e12321c0a1e3525f98376" category="inline-link-rx"></block> .  Andernfalls wird die Option zum Bereitstellen des Agenten nicht angezeigt, wenn Sie den Konsolenagenten bereits bereitgestellt haben.</block>
+  <block id="3d8b27727e14c7d5bb4b8557d9b4533b" category="list-text">Wenn der Dienst den Cluster ermitteln muss, lesen Sie<block ref="8cab2f9c49f209aeaa6ba3d7ce4342f6" category="inline-link-rx"></block> .  Andernfalls wird die Option zum Erkennen des Clusters nicht angezeigt, wenn der Cluster bereits erkannt wurde.</block>
+  <block id="d8c1aeabfd46832db19adac7153bda4e" category="paragraph">Die Lebenszyklusplanung initiiert die Verbindung zu NetApp Cloud Tiering, einem anderen Produkt.</block>
+  <block id="a046028fe55747372f4cfc04108ee5ba" category="inline-image-macro">Kapazitätsseite mit der Option zum Einstufen kalter Daten</block>
+  <block id="c9b7acbf35a5e05d334b2eb777d58ea3" category="paragraph"><block ref="c9b7acbf35a5e05d334b2eb777d58ea3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2bc770450412b342f2fc7bcb64d72896" category="list-text">Wählen Sie *Agent bereitstellen*.</block>
+  <block id="cea9f928dfa7f018d5f69d0b3d5fa567" category="list-text">Wählen Sie einen Cloud-Anbieter und klicken Sie auf *Weiter*.</block>
+  <block id="6b52a1aec285337477d1fef91d9efaf0" category="list-text">Wählen Sie *Weiter* oder *Zur Bereitstellung springen*.</block>
+  <block id="34fca8f336e1fb31caa9c76cba740088" category="paragraph">Nach der Bereitstellung des Konsolenagenten erkennt NetApp Cloud Tiering den Cluster, sofern dieser noch nicht erkannt wurde.</block>
+  <block id="51719535acedbf69edcd6974f73c1601" category="list-text">Nachdem der Cluster erkannt wurde, richten Sie die Schichtung ein.</block>
+  <block id="dbf638b2df9fdd6b028f3a442df69395" category="inline-link">NetApp Cloud Tiering -Dokumentation</block>
+  <block id="7a353d1354dac3a31294d1ad9949331e" category="paragraph">Weitere Informationen zum Tiering finden Sie unter<block ref="77dfa5d928d441d47a9ada2cff006f53" category="inline-link-rx"></block> .</block>
+  <block id="fb6c4a6ba34ef32defa8d30ffb27dc4b" category="summary">Wenn Sie über vorhandene Anlagen verfügen und eine Bewertung wünschen, um festzustellen, ob eine Technologieaktualisierung empfohlen wird, können Sie die Option „Technische Aktualisierung der Lebenszyklusplanung“ verwenden.  Der Prozess nimmt eine Bewertung Ihrer aktuellen Arbeitsbelastung und Ihres Vermögens vor und gibt Ihnen Empfehlungen zum weiteren Vorgehen.  Oder Sie können eine Arbeitslastsimulation ausprobieren.</block>
+  <block id="28d71a1e618675bdef45ff1e59be4038" category="doc">Bewerten Sie eine Technologieaktualisierung mithilfe der Lebenszyklusplanung</block>
+  <block id="2e0d5c7f5dda8a1f356c9e675b3f71bd" category="paragraph">Wenn Sie über vorhandene Anlagen verfügen und feststellen möchten, ob eine Technologieaktualisierung empfohlen wird, können Sie die Optionen zur Technologieaktualisierung in der Lebenszyklusplanung verwenden.  Sie können entweder eine kurze Bewertung Ihrer aktuellen Workloads überprüfen und Empfehlungen erhalten, oder wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet haben, kann der Dienst eine Workload-Simulation bereitstellen, um zu sehen, wie Ihre Workloads auf neuer Hardware funktionieren.</block>
+  <block id="c1df900b707f6cd8b297fcefd8af961c" category="list-text"><block ref="3bb80309ab3efc46643e12a3c466df63" category="inline-xref-macro-rx"></block></block>
+  <block id="3a6ef779c7756458c04e7911e9d5bd22" category="list-text"><block ref="aeecc3b20f94ea0eee23729012d11867" category="inline-xref-macro-rx"></block></block>
+  <block id="8aec41c7ba6a608ecc5e3bf075c75955" category="paragraph">Systeme werden aus folgenden Gründen als Kandidaten für eine technische Aktualisierung betrachtet:</block>
+  <block id="86602ed92a03b859038bb7756a757229" category="list-text">Der technische Supportvertrag läuft bald aus</block>
+  <block id="c38a9e42a96b1f7a4348f94a647dbf2f" category="list-text">Das Ende des Hardware-Lebenszyklus rückt näher</block>
+  <block id="869f59d2ae09cc5c642d6874113ec74d" category="admonition">Sie können auf diese Funktion entweder über die Lebenszyklusplanung oder über Digital Advisor zugreifen.</block>
+  <block id="9a99f963e31049c789d353216d6aa4ce" category="section-title">Nehmen Sie an einer Auffrischungsbewertung teil</block>
+  <block id="a6babd905f3ba163c4818f3a71e85280" category="paragraph">Die Bewertung umfasst die folgenden Schritte:</block>
+  <block id="a6c4b361fe037e9829a1b6c444d3c045" category="list-text">Wählen Sie die Systeme aus, die Sie bewerten möchten.</block>
+  <block id="c30e6ddb6c5a57eadc6068b4fb442fa0" category="list-text">Geben Sie Ihre Anforderungen hinsichtlich Umgebungen, Workload-Typen, Kapazität, Leistung und Budget an.</block>
+  <block id="e0d081d97c8f3ae3f0917ae9aa59bc00" category="list-text">Sehen Sie sich die Empfehlungen zu geeigneten Produkten und Cloud-Diensten an, die die Leistung in Ihrer Umgebung verbessern könnten.</block>
+  <block id="3b36f4b6bc4ec4b1b6204b51db2d5310" category="list-text">Wählen Sie *Technische Aktualisierung*.</block>
+  <block id="3a9ff9e61ff49a5a72a2d6b20d63dcee" category="inline-image-macro">Seite zur technischen Aktualisierung mit den Kandidaten für die technische Aktualisierung</block>
+  <block id="4ff59188fe0581ed4553e8d2672e289b" category="paragraph"><block ref="4ff59188fe0581ed4553e8d2672e289b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b144465a79421b6ed1853869bd650ffe" category="list-text">Sehen Sie sich die Registerkarte *Kandidaten für eine technische Aktualisierung* an, in der alle Systeme aufgelistet sind, die von einer technischen Aktualisierung profitieren könnten.</block>
+  <block id="4fe59dee5c231845a4fd66f902820f8b" category="list-text">Wählen Sie das System aus, für das Sie eine Bewertung erhalten möchten.</block>
+  <block id="f72458015275b72478d3c8356aa2a853" category="list-text">Wählen Sie in der Spalte „Aktionen“ die Option „Aktualisierung auswerten“ aus.</block>
+  <block id="41dd9cb81e846a2b92ce0dc8d3bab0f4" category="inline-image-macro">Systeme, die in die technische Aktualisierung einbezogen werden sollen</block>
+  <block id="ee37d63f7086468bf9d7a51a647d233a" category="paragraph"><block ref="ee37d63f7086468bf9d7a51a647d233a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5163b220b10897250bf3e170ce6daa9c" category="list-text">Wählen Sie das System bzw. die Systeme aus, auf denen die Bewertung durchgeführt werden soll, und klicken Sie auf *Weiter*.</block>
+  <block id="806dd078b829587301ef35da4ff329f4" category="list-text">Definieren Sie die Anforderungen:</block>
+  <block id="097e04f6385b45e9e5eb37d62ff925b9" category="list-text">*Umgebungen*: Wählen Sie die gewünschten Umgebungstypen aus: öffentliche Cloud, Hybrid-Cloud oder vor Ort.</block>
+  <block id="b6b10bd24bddb16fc0121f5a5567474e" category="inline-image-macro">Seite „Tech Refresh-Anforderungen“ mit Umgebungsauswahl</block>
+  <block id="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="paragraph"><block ref="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f0d5a5bcec2b02dc4f30e9cac55af1ef" category="list-text">*Workloads*: Wählen Sie alle Arten von Workloads aus, die Sie verarbeiten möchten: geschäftskritische Anwendungen, Hochleistungsanalysen und -berechnungen, Datenseen und Medien-Workflows, Sekundärspeicher oder weniger kritische Workloads.</block>
+  <block id="6f29ee9b7199fc42e3e35abdfdbe7825" category="inline-image-macro">Workload-Auswahl</block>
+  <block id="f2a5b15c77282cbeff7cf30606c436fa" category="paragraph"><block ref="f2a5b15c77282cbeff7cf30606c436fa" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9384757b4887b81990a846f0dce0ad71" category="list-text">*Kapazität*: Geben Sie die Kapazitätsanforderungen in TiB ein, schieben Sie den Schieberegler auf den Wert oder platzieren Sie den Cursor auf dem Wert im Schieberegler und wählen Sie *Weiter*.</block>
+  <block id="fbd5cc32604603614a43f9a8bd0a1602" category="list-text">*Leistung*: Wählen Sie die Leistungsaspekte aus, die Sie bewältigen möchten: niedrigste Latenz, höchste IOPS, gemischte Arbeitslasten oder Leistung nicht wichtig, und wählen Sie *Weiter*.</block>
+  <block id="0fc8dd400802744032cf5a3726d3ed48" category="inline-image-macro">Leistungsoptionen</block>
+  <block id="4995e6732d45492019b191ec33b68907" category="paragraph"><block ref="4995e6732d45492019b191ec33b68907" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f8dccf96be3755c833f55e6cef8d52f8" category="list-text">*Budget*: Geben Sie ein Budget in US-Dollar ein, schieben Sie den Schieberegler auf den Wert oder platzieren Sie den Cursor auf dem Wert im Schieberegler und wählen Sie *Weiter*.</block>
+  <block id="27fc8e6d0827e3065fe50dd710023bf2" category="paragraph">Für die von Ihnen ausgewählten Optionen wird in verschiedenen Registerkarten eine Reihe von Empfehlungen angezeigt.</block>
+  <block id="ee45c26f52faad8357038bfc28072aef" category="list-text">Lesen Sie die Empfehlungen.</block>
+  <block id="d1efeae1891322c753da8b9fec43a0c4" category="inline-image-macro">Seite mit Empfehlungen zur Aktualisierungsbewertung anzeigen</block>
+  <block id="dd6e2e89aa52b572824d6df4354282f9" category="paragraph"><block ref="dd6e2e89aa52b572824d6df4354282f9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="aaa33f8f70892c4be13e973507f01284" category="list-text">Führen Sie einen oder beide der folgenden Schritte aus:</block>
+  <block id="3369d572efb7971966d65671e9a87c83" category="list-text">Um ein PDF der Empfehlungen herunterzuladen, wählen Sie *Herunterladen*.</block>
+  <block id="778c1b7029a1912f763bb976dd5e31f2" category="list-text">Um bezüglich der Empfehlungen Kontakt mit einem NetApp Vertriebsmitarbeiter aufzunehmen, wählen Sie *Vertrieb kontaktieren*.  Auf einer Webseite werden Optionen angezeigt, aus denen Sie auswählen können, um Kontakt mit einem NetApp Vertriebsmitarbeiter aufzunehmen.</block>
+  <block id="560e42e6da9452e07ba03414df4da014" category="list-text">Wählen Sie *Fertig*.</block>
+  <block id="8e4d9596ef29e6bf948898e20b66f6c4" category="section-title">Bereits durchgeführte Bewertungen zur Technologieaktualisierung anzeigen</block>
+  <block id="2be881e5370ff5fb4545cae0fccc4747" category="paragraph">Möglicherweise möchten Sie die bereits durchgeführten Bewertungen zur Technologieaktualisierung noch einmal durchgehen und die Empfehlungen noch einmal prüfen.</block>
+  <block id="e58cff21ee4a44f6f860c9c2ea91950f" category="list-text">Wählen Sie in der linken Navigation der NetApp Console *Governance* &gt; *Lebenszyklusplanung* &gt; *Technische Aktualisierung*.</block>
+  <block id="cfdbfc3f5dc775fe2319a5021b966ab5" category="list-text">Wählen Sie die Registerkarte *Kandidaten für die technische Aktualisierung* aus, in der alle Systeme aufgelistet sind, für die Sie eine Bewertung zur technischen Aktualisierung durchgeführt haben.  Wählen Sie dann im Menü „Aktionen“ in der Zeile für dieses System die Option zum Anzeigen der Bewertungen und Empfehlungen für dieses System aus.</block>
+  <block id="94750197e906cc2c9191e06c19bbb219" category="list-text">Wählen Sie auf der Seite „Aktualisierungsoptionen auswerten“ die Option *Empfehlung anzeigen* aus.</block>
+  <block id="77897fd355d4822999b6e016d2698bb2" category="list-text">Sehen Sie sich die Aktualisierungsempfehlungen an.</block>
+  <block id="a56822a7ed8b771ff664c8a2c312313d" category="section-title">Simulieren Sie Workloads auf neuer Hardware</block>
+  <block id="1b72528e20ead2d97bbb081bc17dd1f5" category="paragraph">Wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet haben, kann NetApp eine Simulation bereitstellen, um zu sehen, wie Ihre Workloads auf neuer Hardware funktionieren.</block>
+  <block id="1f82c319eafb82533c3039aa2fc758a1" category="paragraph">Sie können bestimmte Workloads in die Simulation einschließen oder davon ausschließen.  Sie können auch Workloads hinzufügen, wenn diese nicht in der vorhandenen Workloadliste angezeigt werden.</block>
+  <block id="18e03fe3f044e3b4882d1224f6b64647" category="inline-image-macro">Seite „Tech Refresh“ mit der Registerkarte „Tech Refresh-Kandidaten“</block>
+  <block id="ea1f2682b580a987049be53745fb1a38" category="paragraph"><block ref="ea1f2682b580a987049be53745fb1a38" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="866d2063657c0dc4b4f64e3a2328610d" category="list-text">Wählen Sie in der Spalte „Aktionen“ die Option „Aktualisierung auswerten“ aus.</block>
+  <block id="62ae1f29a7b20f4a204a10e7fb5bb187" category="admonition">Die Lebenszyklusplanung importiert Arbeitslastdetails zur Vorbereitung der Simulation.</block>
+  <block id="bd3c9da01d9261aa3a93e740620c99a3" category="inline-image-macro">Seite „Workloads simulieren“ mit den Anforderungsoptionen</block>
+  <block id="3a7a8406bfae0f207e8a2d6b8583f23c" category="paragraph"><block ref="3a7a8406bfae0f207e8a2d6b8583f23c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a4e53dfb27100d4453da0662b9f64509" category="list-text">Führen Sie auf der Seite „Workloads simulieren &gt; Workloadanforderungen“ die folgenden Schritte aus:</block>
+  <block id="1b4ca7f0b9b2476c4e6c29d42caca948" category="list-text">Um eine Arbeitslast hinzuzufügen, die noch nicht in der Liste enthalten ist, wählen Sie *Arbeitslast hinzufügen*. Weitere Informationen finden Sie unter <block ref="6d687ea8f3e00c0c7e5186f4595438ae" category="inline-xref-macro-rx"></block> .</block>
+  <block id="f490f6fc8d91e7f5ef2131cba343992a" category="list-text">*IOPS*: Ändern Sie optional die gewünschten IOPs für Ihre neue Hardware.</block>
+  <block id="f41128c05efbb759f8474126789c0f47" category="list-text">*Kapazität (TiB)*: Ändern Sie optional die gewünschte Kapazität für Ihre neue Hardware.</block>
+  <block id="e06fc5134e6dcc27d1d3a9c1c7b81762" category="list-text">Um Workloads auszuschließen, wählen Sie in der Spalte „Aktionen“ die Option *Workload von der Simulation ausschließen*.</block>
+  <block id="ed5412b57235dc91df9b3a469663c841" category="admonition">Um zuvor ausgeschlossene Workloads einzuschließen, wählen Sie die Registerkarte *Ausgeschlossene Workloads* und wählen Sie die Option *Workload in Simulation einschließen*. .. Wählen Sie *Weiter*.</block>
+  <block id="98b49be109051ae05853cc9bf04cf1f4" category="list-text">Überprüfen Sie die simulierten Ergebnisse auf neuer Hardware auf der Konfigurationsseite:</block>
+  <block id="f31d77cf6170bdf60e97f36b2c4f76a8" category="inline-image-macro">Seite „Workloads simulieren“ mit den Simulationsergebnissen</block>
+  <block id="4e1bdf386c1b043d84adedd9f658ac8f" category="paragraph"><block ref="4e1bdf386c1b043d84adedd9f658ac8f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="79535c026c0bb22f2b3c8d61fbb08bc9" category="admonition">Die besten Empfehlungen sind mit dem Hinweis „Best“ gekennzeichnet.</block>
+  <block id="a659c87a2a01001dd1f5e5afdbbfc6da" category="list-text">So kontaktieren Sie einen NetApp Vertriebsmitarbeiter bezüglich der Empfehlungen:</block>
+  <block id="619f49fb1cba24462e3360cdc2291026" category="list-text">Wählen Sie *Kontakt*.</block>
+  <block id="cd9d83eb56c67a4bed881046405808c0" category="list-text">Kontaktdaten eingeben.</block>
+  <block id="5c65d3d7b5dede3b7b2861d401c3e2b2" category="list-text">Fügen Sie spezielle Hinweise für den NetApp -Vertriebsmitarbeiter hinzu.</block>
+  <block id="359c274a837b4efa363f0727671ab1ed" category="list-text">Wählen Sie *Bestätigen und senden*.</block>
+  <block id="3a77b8d1967fa6a55531f5e8ad71fdf7" category="paragraph">Die Empfehlungen aus der Workload-Simulation werden an einen NetApp Vertriebsmitarbeiter gesendet.  Sie erhalten außerdem eine E-Mail zur Bestätigung der Empfehlungen.  Ein Vertriebsmitarbeiter von NetApp wird auf Ihre Anfrage antworten.</block>
+  <block id="809b80ce5e4316dd14aedcc74561092f" category="section-title">Hinzufügen einer Arbeitslast</block>
+  <block id="bad77863da577d4936af240586679ff2" category="paragraph">Sie können der Workload-Simulation eine Workload hinzufügen, die noch nicht aufgeführt ist.</block>
+  <block id="fc36d223c5b876afa4e1a764e408f5bb" category="list-text">Wählen Sie das System aus.</block>
+  <block id="8ea1f54d2235c0f21408896335f47e8f" category="list-text">Wählen Sie auf der Seite „Workloads simulieren &gt; Workloadanforderungen“ die Option *Workload hinzufügen* aus.</block>
+  <block id="20866c393314c6f5280ccdbcd2984185" category="inline-image-macro">Seite „Arbeitslast hinzufügen“</block>
+  <block id="f8aee05bb242597c2f3152f62d15cab9" category="paragraph"><block ref="f8aee05bb242597c2f3152f62d15cab9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="771a08a10564b90f92464088d5030fa9" category="list-text">Wählen Sie die Anwendung aus, geben Sie einen Workload-Namen ein und wählen Sie eine Workload-Größe aus.</block>
+  <block id="5723e79aadeee69091be4cb7f55ef0e9" category="list-text">Geben Sie die erwarteten Kapazitäts- und Leistungswerte der Arbeitslast ein.</block>
+  <block id="ac59f662241c026643fe3610a6c1dae5" category="admonition">Wenn Sie als Arbeitslastgröße „Klein“, „Typisch“ oder „E/A-intensiv“ wählen, werden Standardwerte angezeigt.</block>
+  <block id="28a3d4238c0846b126310cbfebfcffda" category="list-text">Wählen Sie optional den Pfeil „Erweiterte Optionen“ aus und ändern Sie die Standardeinstellungen für die folgenden Informationen:</block>
+  <block id="a721dca76e5313035a71553b91c23b39" category="list-text">*Speichereffizienz*: Ein typisches Datenreduktionsverhältnis könnte 2 zu 1 sein.</block>
+  <block id="f6a6729c8c1f908586e603d1161a33c2" category="list-text">*Zufällige Lesevorgänge %*: Eine typische durchschnittliche E/A-Größe für einen zufälligen Lesevorgang beträgt 16 KB.</block>
+  <block id="e3ff8d47ac99eb785976344b6a561a44" category="list-text">*Sequentielle Lesevorgänge %*: Ein typisches Lesemuster besteht zu 50 % aus zufälligen und zu 50 % aus sequentiellen Lesevorgängen.</block>
+  <block id="49631ed94494467c16d7f4535454538a" category="list-text">*Zufällige Schreibvorgänge %*: Eine typische durchschnittliche E/A-Größe für einen zufälligen Schreibvorgang beträgt 32 KB.</block>
+  <block id="3a49eb6b3b1b81f28bf0fe6e92c60f3f" category="list-text">*Sequentielle Schreibvorgänge %*: Ein typisches Schreibmuster besteht zu 50 % aus zufälligen und zu 50 % aus sequentiellen Schreibvorgängen.</block>
+  <block id="be180e101a510d7c103b26e9cf5c1928" category="sidebar">Die Lebenszyklusplanung identifiziert Cluster mit aktueller oder prognostizierter geringer Kapazität und gibt Ihnen Empfehlungen zur Datenschichtung.</block>
+  <block id="baa1bad0940aa1e3a1e5489126491593" category="sidebar">Dokumentation der Lebenszyklusplanung</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Erste Schritte</block>
+  <block id="f2606df45c097bcbca3dfc4ccace70ef" category="sidebar">Neuigkeiten in der Lebenszyklusplanung</block>
+  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">Schnellstart</block>
+  <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">Voraussetzungen</block>
+  <block id="332e07c6a10a431e6d5af40d530da1a8" category="sidebar">Melden Sie sich bei der Lebenszyklusplanung an</block>
+  <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">FAQ</block>
+  <block id="291be2b86c81ea2c30417b1b915b4f67" category="sidebar">Lebenszyklusplanung verwenden</block>
+  <block id="55d23e178d63a7dfa5b590a6cfdc18fb" category="sidebar">Überprüfen und beheben Sie Kapazitätsprobleme</block>
+  <block id="bd427205be5a276d634b96c7cf7398b1" category="sidebar">Kalte Daten in Cloud-Speicher einordnen</block>
+  <block id="3244b6844658e5e33144f6b7eae011e7" category="sidebar">Legen Sie Erinnerungen fest, um erneut nachzusehen</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs und Community</block>
+  <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp Community</block>
+  <block id="8e972ee177e91fb4919f5217e63be2cb" category="sidebar">Dokumente zur Lebenszyklusplanung</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Versionshinweise</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Was ist neu</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Wissen und Unterstützung</block>
+  <block id="e7cfded03447512ee87dab0303060fef" category="sidebar">Nutzen Sie die NetApp -Lebenszyklusplanung</block>
+</blocks>

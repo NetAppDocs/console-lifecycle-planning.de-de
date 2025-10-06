@@ -20,7 +20,7 @@ Diese FAQ können hilfreich sein, wenn Sie nur eine schnelle Antwort auf eine Fr
 
 *Wie lautet die URL zur Lebenszyklusplanung?*
 
-Geben Sie als URL in einem Browser Folgendes ein: https://console.netapp.com/["https://console.netapp.com/"^] um auf die NetApp Konsole zuzugreifen.
+Geben Sie als URL in einem Browser Folgendes ein: https://console.netapp.com/["https://console.netapp.com/"^] um auf die NetApp Console zuzugreifen.
 
 
 

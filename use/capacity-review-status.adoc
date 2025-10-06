@@ -17,12 +17,12 @@ Wenn die Speicherressourcen in Ihrer Umgebung derzeit unter dem Schwellenwert vo
 Sie können die folgenden Datentypen überprüfen, um die Lösung des Kapazitätsproblems zu unterstützen.
 
 * Plattform
-* Land, in dem sich das Vermögen befindet
+* Land, in dem sich der Vermögenswert befindet
 * Aktuelle und prognostizierte Kapazität nach Monat
 
 
 .Schritte
-. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Console an"] .
 . Wählen Sie in der linken Navigation *Kapazität* aus.
 +
 image:capacity-page.png["Kapazitätsseite mit einer Liste der Systeme"]

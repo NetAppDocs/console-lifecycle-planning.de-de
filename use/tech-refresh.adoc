@@ -39,7 +39,7 @@ Die Bewertung umfasst die folgenden Schritte:
 
 
 .Schritte
-. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Console an"] .
 . Wählen Sie *Technische Aktualisierung*.
 +
 image:tech-refresh.png["Seite zur technischen Aktualisierung mit den Kandidaten für die technische Aktualisierung"]
@@ -92,7 +92,7 @@ image:tech-refresh-view-recommendations2.png["Seite mit Empfehlungen zur Aktuali
 Möglicherweise möchten Sie die bereits durchgeführten Bewertungen zur Technologieaktualisierung noch einmal durchgehen und die Empfehlungen noch einmal prüfen.
 
 .Schritte
-. Wählen Sie in der linken Navigation der NetApp Konsole *Governance* > *Lebenszyklusplanung* > *Technische Aktualisierung*.
+. Wählen Sie in der linken Navigation der NetApp Console *Governance* > *Lebenszyklusplanung* > *Technische Aktualisierung*.
 . Wählen Sie die Registerkarte *Kandidaten für die technische Aktualisierung* aus, in der alle Systeme aufgelistet sind, für die Sie eine Bewertung zur technischen Aktualisierung durchgeführt haben.  Wählen Sie dann im Menü „Aktionen“ in der Zeile für dieses System die Option zum Anzeigen der Bewertungen und Empfehlungen für dieses System aus.
 . Wählen Sie auf der Seite „Aktualisierungsoptionen auswerten“ die Option *Empfehlung anzeigen* aus.
 . Sehen Sie sich die Aktualisierungsempfehlungen an.
@@ -110,7 +110,7 @@ Wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet
 Sie können bestimmte Workloads in die Simulation einschließen oder davon ausschließen.  Sie können auch Workloads hinzufügen, wenn diese nicht in der vorhandenen Workloadliste angezeigt werden.
 
 .Schritte
-. Wählen Sie in der linken Navigation der NetApp Konsole *Governance* > *Lebenszyklusplanung* > *Technische Aktualisierung*.
+. Wählen Sie in der linken Navigation der NetApp Console *Governance* > *Lebenszyklusplanung* > *Technische Aktualisierung*.
 +
 image:tech-refresh-list2.png["Seite „Tech Refresh“ mit der Registerkarte „Tech Refresh-Kandidaten“"]
 
@@ -166,7 +166,7 @@ Die Empfehlungen aus der Workload-Simulation werden an einen NetApp Vertriebsmit
 Sie können der Workload-Simulation eine Workload hinzufügen, die noch nicht aufgeführt ist.
 
 .Schritte
-. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Console an"] .
 . Wählen Sie *Technische Aktualisierung*.
 +
 image:tech-refresh-list2.png["Seite „Tech Refresh“ mit der Registerkarte „Tech Refresh-Kandidaten“"]

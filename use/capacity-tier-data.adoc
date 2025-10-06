@@ -24,12 +24,12 @@ Der Cloud-Tiering-Prozess umfasst die folgenden Prozesse:
 
 
 .Schritte
-. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Console an"] .
 . Wählen Sie *Speicheroptionen auswerten* für das Asset aus.
 . Wählen Sie *Tier Cold Data* aus.
 . Die nächsten Schritte hängen davon ab, ob Sie den Konsolenagenten bereits bereitgestellt und den Cluster erkannt haben:
 +
-** Wenn Sie den Konsolenagenten bereitstellen müssen, lesen Sie die NetApp Konsolendokumentation, die Folgendes beschreibt: https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["So erstellen Sie den Konsolenagenten"^] .  Andernfalls wird die Option zum Bereitstellen des Agenten nicht angezeigt, wenn Sie den Konsolenagenten bereits bereitgestellt haben.
+** Wenn Sie den Konsolenagenten bereitstellen müssen, lesen Sie die NetApp Console Konsolendokumentation, die Folgendes beschreibt: https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["So erstellen Sie den Konsolenagenten"^] .  Andernfalls wird die Option zum Bereitstellen des Agenten nicht angezeigt, wenn Sie den Konsolenagenten bereits bereitgestellt haben.
 ** Wenn der Dienst den Cluster ermitteln muss, lesen Sie https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["Entdecken Sie lokale ONTAP -Cluster"^] .  Andernfalls wird die Option zum Erkennen des Clusters nicht angezeigt, wenn der Cluster bereits erkannt wurde.
 +
 Die Lebenszyklusplanung initiiert die Verbindung zu NetApp Cloud Tiering, einem anderen Produkt.
@@ -47,6 +47,6 @@ Nach der Bereitstellung des Konsolenagenten erkennt NetApp Cloud Tiering den Clu
 
 . Nachdem der Cluster erkannt wurde, richten Sie die Schichtung ein.
 +
-Weitere Informationen zum Tiering finden Sie unter https://docs.netapp.com/us-en/bluexp-tiering/index.html["NetApp Cloud Tiering-Dokumentation"^] .
+Weitere Informationen zum Tiering finden Sie unter https://docs.netapp.com/us-en/bluexp-tiering/index.html["NetApp Cloud Tiering -Dokumentation"^] .
 
 

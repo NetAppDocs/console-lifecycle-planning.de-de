@@ -15,7 +15,7 @@ summary: Um die Lebenszyklusplanung zu verwenden, führen Sie einige Schritte zu
 Um die Lebenszyklusplanung zu verwenden, führen Sie einige Schritte zur Einrichtung aus.
 
 * Rezensionlink:../get-started/prerequisites.html["Voraussetzungen"] um sicherzustellen, dass Ihr System bereit ist.
-* Erstellen Sie einen Konsolenagenten in der NetApp -Konsole.
+* Erstellen Sie einen Konsolenagenten in der NetApp Console.
 * Entdecken Sie den Cluster in der Konsole.
 
 
@@ -25,15 +25,15 @@ Ebenso können Sie den Cluster im Voraus mithilfe der Konsole oder während des 
 
 
 
-== Erstellen Sie einen Konsolenagenten in der NetApp Konsole
+== Erstellen Sie einen Konsolenagenten in der NetApp Console
 
-Ein NetApp Konsolenagent enthält Anmeldeinformationen für NetApp ONTAP -Maschinen.
+Ein NetApp Console enthält Anmeldeinformationen für NetApp ONTAP -Maschinen.
 
-Informationen zum Erstellen eines Konsolenagenten in der Konsole vor der Verwendung des Dienstes finden Sie in der Konsolendokumentation. Dort wird beschrieben, https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["So erstellen Sie einen NetApp Console-Agenten"^] .
+Informationen zum Erstellen eines Konsolenagenten in der Konsole vor der Verwendung des Dienstes finden Sie in der Konsolendokumentation. Dort wird beschrieben, https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["So erstellen Sie einen NetApp Console Agenten"^] .
 
 
 
-== Entdecken Sie den Cluster in der NetApp Konsole
+== Entdecken Sie den Cluster in der NetApp Console
 
 Zur Einrichtung gehört auch die Identifizierung des Clusternamens, der IP, des Benutzernamens und des Kennworts in der Konsole.
 

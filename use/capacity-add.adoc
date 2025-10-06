@@ -19,7 +19,7 @@ Eine der Empfehlungen könnte darin bestehen, die Kapazität durch Hinzufügen v
 Die Empfehlung können Sie ganz einfach als Angebotsanfrage oder als Anfrage für Alternativoptionen an das NetApp Sales Team übermitteln.
 
 .Schritte
-. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Konsole an"] .
+. link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Console an"] .
 . Wählen Sie *Kapazitätsplanung* aus.
 . Wählen Sie *Speicheroptionen auswerten* für das Asset aus.
 . Wählen Sie *Kapazität hinzufügen*.
