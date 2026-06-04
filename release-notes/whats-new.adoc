@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, bluexp, lifecycle planning frequently asked questions 
-summary: 'Der NetApp Lifecycle Planning Service identifiziert Cluster mit aktueller oder prognostizierter geringer Kapazität und gibt Ihnen Empfehlungen zum Daten-Tiering oder zu zusätzlicher Kapazität (für AFF Systeme).  Der Dienst bietet außerdem Empfehlungen zur Technologieaktualisierung für Systeme, die sich dem Ende ihrer Lebensdauer nähern.' 
+summary: 'Der NetApp Lifecycle-Planning-Service identifiziert Cluster mit aktueller oder prognostizierter geringer Kapazität und gibt Ihnen Empfehlungen zum Data Tiering oder zusätzlicher Kapazität (für AFF Systeme). Der Service bietet außerdem Empfehlungen zur Systemerneuerung für Systeme, die sich dem Ende ihrer Lebensdauer nähern.' 
 ---
 = Neuigkeiten in der Lebenszyklusplanung
 :hardbreaks:
@@ -13,6 +13,21 @@ summary: 'Der NetApp Lifecycle Planning Service identifiziert Cluster mit aktuel
 
 [role="lead"]
 Erfahren Sie, was es Neues in der Lebenszyklusplanung gibt.
+
+
+
+== 3. Juni 2026
+
+
+
+=== Aktualisierungen der Funktionsnamen für die Lebenszyklusplanung
+
+Die folgenden Funktionen der Lebenszyklusplanung haben Namensänderungen erfahren:
+
+* Die Funktion „Tech-Aktualisierung“ heißt jetzt *Systemaktualisierung*. Erfahren Sie, wie Sie link:../use/tech-refresh.html["eine Systemaktualisierung bewerten"].
+* Die Funktion „Kapazitätserweiterungen“ heißt jetzt *Speichererweiterung*. Erfahren Sie, wie link:../use/capacity-add.html["Speicherplatz erweitern"].
+* Die Funktion „Verlängerungen“ heißt jetzt *Support Renewals*. Erfahren Sie, wie Sie link:../support/task-support-registration.html["Registrieren Sie sich für Support"].
+
 
 
 

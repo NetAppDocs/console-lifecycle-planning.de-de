@@ -3,7 +3,7 @@ indexpage:
   title: Dokumentation der Lebenszyklusplanung
   summary: Die Lebenszyklusplanung identifiziert Cluster mit aktueller oder prognostizierter
     geringer Kapazität und gibt Ihnen Empfehlungen zur Datenschichtung.
-  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+  keywords: technology refresh, system refresh, AFF, capacity, economic efficiency,
     bluexp, data tier, hardware end of life, lifecycle planning
   lead: Die Lebenszyklusplanung identifiziert Cluster mit aktueller oder prognostizierter
     geringer Kapazität und gibt Ihnen Empfehlungen zur Datenschichtung.
@@ -28,7 +28,7 @@ indexpage:
       url: "/use/capacity-remediate-overview.html"
     - title: Kapazitätsstatus überprüfen
       url: "/use/capacity-review-status.html"
-    - title: Kapazität hinzufügen
+    - title: Speichererweiterung
       url: "/use/capacity-add.html"
     - title: Kalte Daten in Cloud-Speicher einordnen
       url: "/use/capacity-tier-data.html"

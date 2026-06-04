@@ -12,7 +12,7 @@ summary: Die NetApp Lebenszyklusplanung identifiziert Cluster mit aktueller oder
 
 
 [role="lead"]
-Bei der Lebenszyklusplanung werden Ihre Speicherressourcen mit aktueller oder prognostizierter geringer Kapazität bewertet und Empfehlungen zu Daten-Tiering-Optionen gegeben, die Ihren Geschäftsanforderungen entsprechen.
+Die Lebenszyklusplanung bewertet Ihre Speicherressourcen mit aktuell oder prognostiziert niedriger Kapazität und gibt Empfehlungen zu Daten-Tiering-Optionen, die Ihren Geschäftsanforderungen entsprechen.
 
 
 
@@ -44,7 +44,7 @@ Mithilfe der Lebenszyklusplanung können Sie die folgenden Ziele erreichen.
 
 Die Lebenszyklusplanung bietet folgende Vorteile:
 
-* Identifiziert Systeme, bei denen sich Lebenszyklusereignisse nähern, um Sie bei der Planung einer Technologieaktualisierung zu unterstützen
+* Identifiziert Systeme, die sich wichtigen Lebenszyklusereignissen nähern, um Sie bei der Planung einer Systemaktualisierung zu unterstützen
 * Bietet Empfehlungen eines vertrauenswürdigen Beraters zur Behebung von Kapazitätsproblemen in Ihrer Umgebung
 * Reduziert den Zeitaufwand für die Planung zusätzlicher Speicherkapazitäten
 
@@ -61,4 +61,4 @@ Wenn Sie sich dazu entscheiden, kalte Daten in der Cloud zu speichern, müssen S
 
 == Zugang
 
-Sie können auf diese Funktion entweder über die NetApp Console (*Storage* > *Lebenszyklusplanung*) oder über Active IQ Digital Advisor (auch als Digital Advisor bekannt) (*Dashboard* > *Planungs-Widget* > *Tech-Refresh*) zugreifen.
+Sie können auf diese Funktion entweder über die NetApp Console (*Speicher* > *Lebenszyklusplanung*) oder über Active IQ Digital Advisor (auch bekannt als Digital Advisor) (*Dashboard* > *Planungs-Widget* > *Systemaktualisierung*) zugreifen.

@@ -19,7 +19,7 @@ Um die Lebenszyklusplanung zu verwenden, führen Sie einige Schritte zur Einrich
 * Entdecken Sie den Cluster in der Konsole.
 
 
-Sie können einen Konsolenagenten direkt in der Konsole erstellen und diesen Agenten später in BlueXP economic efficiency nutzen.  Oder Sie können den Konsolenagenten mitten im Kapazitätsbehebungsprozess erstellen.
+Sie können einen Console-Agenten direkt in der Console erstellen und diesen Agenten später in der Lifecycle-Planung verwenden. Oder Sie können den Console-Agenten während des Kapazitätsbehebungsprozesses erstellen.
 
 Ebenso können Sie den Cluster im Voraus mithilfe der Konsole oder während des Kapazitätsbehebungsprozesses ermitteln.
 

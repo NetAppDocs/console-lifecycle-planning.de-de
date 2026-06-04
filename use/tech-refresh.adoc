@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar 
 permalink: use/tech-refresh.html 
-keywords: lifecycle planning, tech refresh, technology update, hardware assessment 
-summary: Wenn Sie über vorhandene Anlagen verfügen und eine Bewertung wünschen, um festzustellen, ob eine Technologieaktualisierung empfohlen wird, können Sie die Option „Technische Aktualisierung der Lebenszyklusplanung“ verwenden.  Der Prozess nimmt eine Bewertung Ihrer aktuellen Arbeitsbelastung und Ihres Vermögens vor und gibt Ihnen Empfehlungen zum weiteren Vorgehen.  Oder Sie können eine Arbeitslastsimulation ausprobieren. 
+keywords: lifecycle planning, system refresh, technology update, hardware assessment 
+summary: Wenn Sie bereits über bestehende Assets verfügen und eine Bewertung wünschen, um festzustellen, ob eine Systemerneuerung empfohlen wird, können Sie die Option zur Systemerneuerung in der Lebenszyklusplanung nutzen. Der Prozess bewertet Ihre aktuellen Workloads und Assets und gibt Ihnen Empfehlungen, wie Sie weiter vorgehen sollten. Oder Sie können eine Workload-Simulation ausprobieren. 
 ---
-= Bewerten Sie eine Technologieaktualisierung mithilfe der Lebenszyklusplanung
+= Bewerten Sie eine Systemerneuerung mithilfe der Lebenszyklusplanung
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -12,13 +12,13 @@ summary: Wenn Sie über vorhandene Anlagen verfügen und eine Bewertung wünsche
 
 
 [role="lead"]
-Wenn Sie über vorhandene Anlagen verfügen und feststellen möchten, ob eine Technologieaktualisierung empfohlen wird, können Sie die Optionen zur Technologieaktualisierung in der Lebenszyklusplanung verwenden.  Sie können entweder eine kurze Bewertung Ihrer aktuellen Workloads überprüfen und Empfehlungen erhalten, oder wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet haben, kann der Dienst eine Workload-Simulation bereitstellen, um zu sehen, wie Ihre Workloads auf neuer Hardware funktionieren.
+Wenn Sie bereits Systemressourcen im Einsatz haben und prüfen möchten, ob eine Systemerneuerung empfehlenswert ist, können Sie die Optionen zur Systemerneuerung im Rahmen der Lebenszyklusplanung nutzen. Sie können entweder eine kurze Analyse Ihrer aktuellen Workloads einsehen und Empfehlungen erhalten, oder, wenn Sie innerhalb der letzten 90 Tage AutoSupport-Protokolle an NetApp gesendet haben, kann der Service eine Workload-Simulation bereitstellen, um zu sehen, wie Ihre Workloads auf neuer Hardware ausgeführt werden.
 
 * <<Nehmen Sie an einer Auffrischungsbewertung teil>>
 * <<Simulieren Sie Workloads auf neuer Hardware>>
 
 
-Systeme werden aus folgenden Gründen als Kandidaten für eine technische Aktualisierung betrachtet:
+Systeme werden anhand folgender Kriterien als Kandidaten für eine Systemerneuerung betrachtet:
 
 * Der technische Supportvertrag läuft bald aus
 * Das Ende des Hardware-Lebenszyklus rückt näher
@@ -40,22 +40,22 @@ Die Bewertung umfasst die folgenden Schritte:
 
 .Schritte
 . link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Console an"] .
-. Wählen Sie *Technische Aktualisierung*.
+. Wählen Sie *System refresh*.
 +
-image:tech-refresh.png["Seite zur technischen Aktualisierung mit den Kandidaten für die technische Aktualisierung"]
+image:tech-refresh.png["Seite zur Systemaktualisierung mit Anzeige der Kandidaten für die Systemaktualisierung"]
 
-. Sehen Sie sich die Registerkarte *Kandidaten für eine technische Aktualisierung* an, in der alle Systeme aufgelistet sind, die von einer technischen Aktualisierung profitieren könnten.
+. Schauen Sie sich die Registerkarte *System refresh candidates* an, auf der alle Systeme aufgelistet sind, die von einer Systemaktualisierung profitieren könnten.
 . Wählen Sie das System aus, für das Sie eine Bewertung erhalten möchten.
 . Wählen Sie in der Spalte „Aktionen“ die Option „Aktualisierung auswerten“ aus.
 +
-image:tech-refresh-systems.png["Systeme, die in die technische Aktualisierung einbezogen werden sollen"]
+image:tech-refresh-systems.png["Systeme, die in die Systemaktualisierung einbezogen werden sollen"]
 
 . Wählen Sie das System bzw. die Systeme aus, auf denen die Bewertung durchgeführt werden soll, und klicken Sie auf *Weiter*.
 . Definieren Sie die Anforderungen:
 +
 .. *Umgebungen*: Wählen Sie die gewünschten Umgebungstypen aus: öffentliche Cloud, Hybrid-Cloud oder vor Ort.
 +
-image:tech-refresh-requirements-environments4.png["Seite „Tech Refresh-Anforderungen“ mit Umgebungsauswahl"]
+image:tech-refresh-requirements-environments4.png["Seite mit Systemaktualisierungsanforderungen, auf der Umgebungsoptionen angezeigt werden"]
 
 .. *Workloads*: Wählen Sie alle Arten von Workloads aus, die Sie verarbeiten möchten: geschäftskritische Anwendungen, Hochleistungsanalysen und -berechnungen, Datenseen und Medien-Workflows, Sekundärspeicher oder weniger kritische Workloads.
 +
@@ -87,13 +87,13 @@ image:tech-refresh-view-recommendations2.png["Seite mit Empfehlungen zur Aktuali
 
 
 
-== Bereits durchgeführte Bewertungen zur Technologieaktualisierung anzeigen
+== Bereits durchgeführte Systemaktualisierungsbewertungen ansehen
 
-Möglicherweise möchten Sie die bereits durchgeführten Bewertungen zur Technologieaktualisierung noch einmal durchgehen und die Empfehlungen noch einmal prüfen.
+Sie können die bereits durchgeführten Systemaktualisierungsbewertungen überprüfen und die Empfehlungen noch einmal überprüfen.
 
 .Schritte
-. Wählen Sie in der linken Navigation der NetApp Console *Governance* > *Lebenszyklusplanung* > *Technische Aktualisierung*.
-. Wählen Sie die Registerkarte *Kandidaten für die technische Aktualisierung* aus, in der alle Systeme aufgelistet sind, für die Sie eine Bewertung zur technischen Aktualisierung durchgeführt haben.  Wählen Sie dann im Menü „Aktionen“ in der Zeile für dieses System die Option zum Anzeigen der Bewertungen und Empfehlungen für dieses System aus.
+. Wählen Sie in der linken Navigation der NetApp Console *Storage* > *Lifecycle planning* > *System refresh*.
+. Wählen Sie die Registerkarte *System refresh candidates* aus, auf der alle Systeme aufgelistet sind, für die Sie eine Systemaktualisierungsbewertung durchgeführt haben. Wählen Sie dann im Menü „Aktionen“ in der Zeile für dieses System die Option aus, um die Bewertungen und Empfehlungen für dieses System anzuzeigen.
 . Wählen Sie auf der Seite „Aktualisierungsoptionen auswerten“ die Option *Empfehlung anzeigen* aus.
 . Sehen Sie sich die Aktualisierungsempfehlungen an.
 +
@@ -110,11 +110,11 @@ Wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet
 Sie können bestimmte Workloads in die Simulation einschließen oder davon ausschließen.  Sie können auch Workloads hinzufügen, wenn diese nicht in der vorhandenen Workloadliste angezeigt werden.
 
 .Schritte
-. Wählen Sie in der linken Navigation der NetApp Console *Governance* > *Lebenszyklusplanung* > *Technische Aktualisierung*.
+. Wählen Sie in der linken Navigation der NetApp Console *Governance* > *Lifecycle planning* > *System refresh*.
 +
-image:tech-refresh-list2.png["Seite „Tech Refresh“ mit der Registerkarte „Tech Refresh-Kandidaten“"]
+image:tech-refresh-list2.png["Seite zur Systemaktualisierung mit der Registerkarte „Kandidaten für Systemaktualisierung“"]
 
-. Sehen Sie sich die Registerkarte *Kandidaten für eine technische Aktualisierung* an, in der alle Systeme aufgelistet sind, die von einer technischen Aktualisierung profitieren könnten.
+. Schauen Sie sich die Registerkarte *System refresh candidates* an, auf der alle Systeme aufgelistet sind, die von einer Systemaktualisierung profitieren könnten.
 . Wählen Sie das System aus, für das Sie eine Bewertung erhalten möchten.
 . Wählen Sie in der Spalte „Aktionen“ die Option „Aktualisierung auswerten“ aus.
 +
@@ -167,9 +167,9 @@ Sie können der Workload-Simulation eine Workload hinzufügen, die noch nicht au
 
 .Schritte
 . link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Console an"] .
-. Wählen Sie *Technische Aktualisierung*.
+. Wählen Sie *System refresh*.
 +
-image:tech-refresh-list2.png["Seite „Tech Refresh“ mit der Registerkarte „Tech Refresh-Kandidaten“"]
+image:tech-refresh-list2.png["Seite zur Systemaktualisierung mit der Registerkarte „Kandidaten für Systemaktualisierung“"]
 
 . Wählen Sie das System aus.
 . Wählen Sie in der Spalte „Aktionen“ die Option „Aktualisierung auswerten“ aus.

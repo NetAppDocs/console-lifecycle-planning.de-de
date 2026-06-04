@@ -4,7 +4,7 @@ permalink: use/capacity-add.html
 keywords: economic efficiency remediate, lifecycle planning, capacity planning, add capacity 
 summary: Die Lebenszyklusplanung bietet Empfehlungen für AFF -Systeme basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage werden im Rahmen der Lebenszyklusplanung Empfehlungen vorgelegt, die den Kapazitätswachstumsprognosen gerecht werden und für die Anlagenkonfiguration optimal sind. 
 ---
-= Kapazität hinzufügen
+= Speichererweiterung mit Lebenszyklusplanung
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -14,7 +14,7 @@ summary: Die Lebenszyklusplanung bietet Empfehlungen für AFF -Systeme basierend
 [role="lead"]
 Die Lebenszyklusplanung bietet Empfehlungen für AFF -Systeme basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage werden im Rahmen der Lebenszyklusplanung Empfehlungen vorgelegt, die den Kapazitätswachstumsprognosen gerecht werden und für die Anlagenkonfiguration optimal sind.
 
-Eine der Empfehlungen könnte darin bestehen, die Kapazität durch Hinzufügen von Regalen zu Ihrer vorhandenen Seriennummer zu erhöhen.
+Eine der Empfehlungen könnte sein, den Speicherplatz durch Hinzufügen von Shelves zu Ihrer bestehenden Seriennummer zu erweitern.
 
 Die Empfehlung können Sie ganz einfach als Angebotsanfrage oder als Anfrage für Alternativoptionen an das NetApp Sales Team übermitteln.
 
@@ -22,7 +22,7 @@ Die Empfehlung können Sie ganz einfach als Angebotsanfrage oder als Anfrage fü
 . link:../get-started/capacity-login.html["Melden Sie sich bei der NetApp Console an"] .
 . Wählen Sie *Kapazitätsplanung* aus.
 . Wählen Sie *Speicheroptionen auswerten* für das Asset aus.
-. Wählen Sie *Kapazität hinzufügen*.
+. Wählen Sie *Speichererweiterung* (früher Kapazität hinzufügen).
 +
 Die Daten des Assets werden angezeigt.
 
