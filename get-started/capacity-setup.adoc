@@ -25,6 +25,7 @@ Ebenso können Sie den Cluster im Voraus mithilfe der Konsole oder während des 
 
 
 
+[[create-a-console-agent-in-the-netapp-console]]
 == Erstellen Sie einen Konsolenagenten in der NetApp Console
 
 Ein NetApp Console enthält Anmeldeinformationen für NetApp ONTAP -Maschinen.
@@ -33,6 +34,7 @@ Informationen zum Erstellen eines Konsolenagenten in der Konsole vor der Verwend
 
 
 
+[[discover-the-cluster-in-the-netapp-console]]
 == Entdecken Sie den Cluster in der NetApp Console
 
 Zur Einrichtung gehört auch die Identifizierung des Clusternamens, der IP, des Benutzernamens und des Kennworts in der Konsole.

@@ -4,6 +4,7 @@
 
 
 
+[[disabled-features]]
 === Deaktivierte Funktionen
 
 Einige Funktionen zur BlueXP economic efficiency wurden vorübergehend deaktiviert:

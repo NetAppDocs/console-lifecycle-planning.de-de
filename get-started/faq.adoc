@@ -4,7 +4,7 @@ permalink: get-started/faq.html
 keywords: economic efficiency faq, lifecycle planning frequently asked questions 
 summary: Diese FAQ können hilfreich sein, wenn Sie nur schnell eine Antwort auf eine Frage suchen. 
 ---
-= Häufig gestellte Fragen zur Lebenszyklusplanung
+= Häufig gestellte Fragen zur Lifecycle-Planung
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -16,6 +16,7 @@ Diese FAQ können hilfreich sein, wenn Sie nur eine schnelle Antwort auf eine Fr
 
 
 
+[[access-to-lifecycle-planning]]
 == Zugriff auf die Lebenszyklusplanung
 
 *Wie lautet die URL zur Lebenszyklusplanung?*
@@ -24,6 +25,7 @@ Geben Sie als URL in einem Browser Folgendes ein: https://console.netapp.com/["h
 
 
 
+[[licensing]]
 == Lizenzierung
 
 *Benötigen Sie eine Lizenz, um die Lebenszyklusplanung zu nutzen?*

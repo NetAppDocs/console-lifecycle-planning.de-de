@@ -4,7 +4,7 @@ permalink: use/capacity-tier-data.html
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity, lifecycle planning 
 summary: Die Lebenszyklusplanung liefert Empfehlungen basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage präsentiert der Dienst Empfehlungen, die dem prognostizierten Kapazitätswachstum gerecht werden und für die Anlagenkonfiguration optimal sind.  Eine der Empfehlungen könnte darin bestehen, kalte Daten in den Cloud-Speicher zu verschieben, um Kapazitäten freizugeben.  Diese Empfehlung initiiert die Verbindung zu NetApp Cloud Tiering, einem anderen Produkt. 
 ---
-= Verteilen Sie kalte Daten in den Cloud-Speicher und geben Sie den durch die Lebenszyklusplanung ermittelten Speicher frei
+= Cold Data mit Lifecycle-Planung in Cloud-Speicher tiern
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

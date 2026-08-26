@@ -16,6 +16,7 @@ Die Lebenszyklusplanung bewertet Ihre Speicherressourcen mit aktuell oder progno
 
 
 
+[[netapp-console]]
 == NetApp Console
 
 Auf die Lebenszyklusplanung kann über die NetApp Console zugegriffen werden.
@@ -28,6 +29,7 @@ Erfahren Sie mehr über die https://docs.netapp.com/us-en/bluexp-setup-admin/con
 
 
 
+[[what-can-you-do-with-lifecycle-planning]]
 == Was können Sie mit der Lebenszyklusplanung erreichen?
 
 Mithilfe der Lebenszyklusplanung können Sie die folgenden Ziele erreichen.
@@ -40,6 +42,7 @@ Mithilfe der Lebenszyklusplanung können Sie die folgenden Ziele erreichen.
 
 
 
+[[benefits-of-lifecycle-planning]]
 == Vorteile der Lebenszyklusplanung
 
 Die Lebenszyklusplanung bietet folgende Vorteile:
@@ -51,6 +54,7 @@ Die Lebenszyklusplanung bietet folgende Vorteile:
 
 
 
+[[cost]]
 == Kosten
 
 NetApp berechnet Ihnen für die Nutzung der Lebenszyklusplanung keine Gebühren.
@@ -59,6 +63,7 @@ Wenn Sie sich dazu entscheiden, kalte Daten in der Cloud zu speichern, müssen S
 
 
 
+[[access]]
 == Zugang
 
 Sie können auf diese Funktion entweder über die NetApp Console (*Speicher* > *Lebenszyklusplanung*) oder über Active IQ Digital Advisor (auch bekannt als Digital Advisor) (*Dashboard* > *Planungs-Widget* > *Systemaktualisierung*) zugreifen.

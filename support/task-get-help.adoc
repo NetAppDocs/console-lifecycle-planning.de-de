@@ -4,7 +4,7 @@ permalink: support/task-get-help.html
 keywords: help, ticket, open support case, support, netapp support, technical support, call support, phone number, open ticket, web ticket, open an issue 
 summary: 'NetApp bietet auf verschiedene Weise Support für die NetApp Console . Umfangreiche kostenlose Self-Support-Optionen stehen rund um die Uhr zur Verfügung, beispielsweise Knowledgebase-Artikel (KB) und ein Community-Forum. Ihre Support-Registrierung beinhaltet technischen Remote-Support per Web-Ticketing.' 
 ---
-= Hilfe erhalten
+= Hilfe zur NetApp Console
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -15,6 +15,7 @@ NetApp bietet Support für NetApp Console und deren Cloud-Services auf verschied
 
 
 
+[[get-support-for-a-cloud-provider-file-service]]
 == Erhalten Sie Unterstützung für den Dateidienst eines Cloud-Anbieters
 
 Technische Unterstützung im Zusammenhang mit dem Dateidienst eines Cloud-Anbieters, seiner Infrastruktur oder einer Lösung, die diesen Dienst nutzt, finden Sie in der Dokumentation des jeweiligen Produkts.
@@ -28,6 +29,7 @@ Um technischen Support speziell für NetApp und dessen Speicherlösungen und Dat
 
 
 
+[[use-self-support-options]]
 == Nutzen Sie Möglichkeiten zur Selbsthilfe
 
 Diese Optionen stehen Ihnen 24 Stunden am Tag, 7 Tage die Woche kostenlos zur Verfügung:
@@ -48,6 +50,7 @@ Tritt der NetApp Console-Community bei, um laufende Diskussionen zu verfolgen od
 
 
 
+[[create-a-case-with-netapp-support]]
 == Erstellen Sie einen Fall mit dem NetApp Support
 
 Zusätzlich zu den oben genannten Self-Support-Optionen können Sie nach der Aktivierung des Supports mit einem NetApp -Support-Spezialisten zusammenarbeiten, um alle Probleme zu lösen.
@@ -104,6 +107,7 @@ Dieser Fehler kann bedeuten, dass das NSS-Konto und das zugehörige Unternehmen 
 
 
 
+[[manage-your-support-cases]]
 == Verwalten Sie Ihre Supportfälle
 
 Sie können aktive und abgeschlossene Supportfälle direkt in der Console einsehen und verwalten. Sie können die Fälle verwalten, die mit Ihrem NSS-Konto und Ihrem Unternehmen verknüpft sind.

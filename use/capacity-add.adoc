@@ -4,7 +4,7 @@ permalink: use/capacity-add.html
 keywords: economic efficiency remediate, lifecycle planning, capacity planning, add capacity 
 summary: Die Lebenszyklusplanung bietet Empfehlungen für AFF -Systeme basierend auf dem prognostizierten Datenwachstum.  Sie können die Prognose akzeptieren oder eine eigene Prognose eingeben.  Auf dieser Grundlage werden im Rahmen der Lebenszyklusplanung Empfehlungen vorgelegt, die den Kapazitätswachstumsprognosen gerecht werden und für die Anlagenkonfiguration optimal sind. 
 ---
-= Speichererweiterung mit Lebenszyklusplanung
+= Speicherkapazität mit Lifecycle-Planung erweitern
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

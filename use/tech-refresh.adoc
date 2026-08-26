@@ -4,7 +4,7 @@ permalink: use/tech-refresh.html
 keywords: lifecycle planning, system refresh, technology update, hardware assessment 
 summary: Wenn Sie bereits über bestehende Assets verfügen und eine Bewertung wünschen, um festzustellen, ob eine Systemerneuerung empfohlen wird, können Sie die Option zur Systemerneuerung in der Lebenszyklusplanung nutzen. Der Prozess bewertet Ihre aktuellen Workloads und Assets und gibt Ihnen Empfehlungen, wie Sie weiter vorgehen sollten. Oder Sie können eine Workload-Simulation ausprobieren. 
 ---
-= Bewerten Sie eine Systemerneuerung mithilfe der Lebenszyklusplanung
+= Eine Systemerneuerung mit Lebenszyklusplanung evaluieren
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -29,6 +29,7 @@ TIP: Sie können auf diese Funktion entweder über die Lebenszyklusplanung oder 
 
 
 
+[[take-a-refresh-assessment]]
 == Nehmen Sie an einer Auffrischungsbewertung teil
 
 Die Bewertung umfasst die folgenden Schritte:
@@ -87,6 +88,7 @@ image:tech-refresh-view-recommendations2.png["Seite mit Empfehlungen zur Aktuali
 
 
 
+[[view-system-refresh-assessments-already-taken]]
 == Bereits durchgeführte Systemaktualisierungsbewertungen ansehen
 
 Sie können die bereits durchgeführten Systemaktualisierungsbewertungen überprüfen und die Empfehlungen noch einmal überprüfen.
@@ -103,6 +105,7 @@ image:tech-refresh-view-recommendations2.png["Seite mit Empfehlungen zur Aktuali
 
 
 
+[[simulate-workloads-on-new-hardware]]
 == Simulieren Sie Workloads auf neuer Hardware
 
 Wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet haben, kann NetApp eine Simulation bereitstellen, um zu sehen, wie Ihre Workloads auf neuer Hardware funktionieren.
@@ -161,6 +164,7 @@ Die Empfehlungen aus der Workload-Simulation werden an einen NetApp Vertriebsmit
 
 
 
+[[add-a-workload]]
 == Hinzufügen einer Arbeitslast
 
 Sie können der Workload-Simulation eine Workload hinzufügen, die noch nicht aufgeführt ist.

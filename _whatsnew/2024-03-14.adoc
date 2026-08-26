@@ -4,6 +4,7 @@
 
 
 
+[[technology-refresh-options]]
 === Optionen zur Technologieaktualisierung
 
 Wenn Sie über vorhandene Anlagen verfügen und feststellen möchten, ob eine Technologie aktualisiert werden muss, können Sie die BlueXP -Optionen zur Aktualisierung der wirtschaftlichen Effizienztechnologie verwenden.  Sie können entweder eine kurze Bewertung Ihrer aktuellen Workloads überprüfen und Empfehlungen erhalten, oder wenn Sie innerhalb der letzten 90 Tage AutoSupport Protokolle an NetApp gesendet haben, kann der Dienst jetzt eine Workload-Simulation bereitstellen, um zu sehen, wie Ihre Workloads auf neuer Hardware funktionieren.
