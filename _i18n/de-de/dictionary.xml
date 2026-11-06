@@ -268,7 +268,6 @@
   <block id="10492389e94efdebbb66f7b0cd8a1324" category="list-text">Wählen Sie *Speichern*.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Ergebnis</block>
   <block id="49888fcfedf40834e6baa46c3569b5b4" category="paragraph">Nach Ablauf dieser Zeit erscheint das Risiko erneut in der Risikoliste.</block>
-  <block id="20245c952c33fe21dea309c4b88da6b7" category="summary">Wenn Ihre Cluster derzeit unter dem Schwellenwert von 70 % Kapazität liegen oder voraussichtlich darunter liegen werden, werden diese von der Lebenszyklusplanung als Ressourcen mit geringer Kapazität identifiziert und Sie werden gewarnt.</block>
   <block id="57fe405a418d0d172d01b2eb3de8379c" category="doc">Überprüfen des Kapazitätsstatus in der Lebenszyklusplanung</block>
   <block id="cf9965682d8ca2a2a8060ba94c01ace5" category="paragraph">Wenn die Speicherressourcen in Ihrer Umgebung derzeit unter dem Schwellenwert von 90 % Kapazität liegen oder voraussichtlich darunter liegen werden, werden diese von der Lebenszyklusplanung als Ressourcen mit geringer Kapazität identifiziert und Sie werden benachrichtigt.  Darüber hinaus bietet die Lebenszyklusplanung Empfehlungen dazu, ob Sie Daten in Stufen aufteilen sollten.</block>
   <block id="837d5e9f2c5cbcdab7649199e74aeb6f" category="paragraph">Sie können die folgenden Datentypen überprüfen, um die Lösung des Kapazitätsproblems zu unterstützen.</block>
@@ -495,4 +494,5 @@
   <block id="e23284296f5aadb6583374303409e8bc" category="doc">Workflow zur Kapazitätsprüfung und -behebung für die Lifecycle-Planung</block>
   <block id="f8af3f3477e6098e54f313c0f4bbd9e7" category="doc">Cold Data mit Lifecycle-Planung in Cloud-Speicher tiern</block>
   <block id="fd496caf19c50a2efb13d24e0f4180fc" category="doc">Eine Systemerneuerung mit Lebenszyklusplanung evaluieren</block>
+  <block id="274323025c712e3e6c79c7582e2e11fb" category="summary">Wenn Ihre Cluster aktuell unter dem Schwellenwert von 70 Prozent Kapazität liegen oder voraussichtlich darunter liegen werden, identifiziert die Lifecycle-Planung diese als Ressourcen mit geringer Kapazität und benachrichtigt Sie.</block>
 </blocks>

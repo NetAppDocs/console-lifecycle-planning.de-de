@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: use/capacity-review-status.html 
 keywords: lifecycle planning remediate, lifecycle planning, capacity planning, forecast, capacity, storage, economic efficiency 
-summary: 'Wenn Ihre Cluster derzeit unter dem Schwellenwert von 70 % Kapazität liegen oder voraussichtlich darunter liegen werden, werden diese von der Lebenszyklusplanung als Ressourcen mit geringer Kapazität identifiziert und Sie werden gewarnt.' 
+summary: Wenn Ihre Cluster aktuell unter dem Schwellenwert von 70 Prozent Kapazität liegen oder voraussichtlich darunter liegen werden, identifiziert die Lifecycle-Planung diese als Ressourcen mit geringer Kapazität und benachrichtigt Sie. 
 ---
 = Überprüfen des Kapazitätsstatus in der Lebenszyklusplanung
 :hardbreaks:
